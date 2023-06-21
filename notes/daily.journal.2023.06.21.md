@@ -2,7 +2,7 @@
 id: mi9jd005jdb5xkdu5rd4ok7
 title: '2023-06-21'
 desc: ''
-updated: 1687370495263
+updated: 1687370509053
 created: 1687370495263
 traitIds:
   - journalNote
@@ -24,9 +24,9 @@ Based on the journaling method created by Intelligent Change:
 
 I am grateful for:
 
-1.
-2.
-3.
+1. Noor
+2. Naf
+3. Frank
 
 ### What would make today great?
 
