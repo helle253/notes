@@ -1,5 +1,3 @@
-- [notes](#notes)
-
 # notes
 Hi,
 
