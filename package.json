@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.7.2"
+    "@dendronhq/dendron-cli": "^0.122.0"
   }
 }
