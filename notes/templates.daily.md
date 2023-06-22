@@ -2,7 +2,7 @@
 id: 95p4no8ujk4k59aui4tyerp
 title: Daily Journal Template
 desc: ''
-updated: 1687402570579
+updated: 1687402632626
 created: 1687370495202
 ---
 ## Morning
@@ -12,5 +12,3 @@ created: 1687370495202
 ## Evening
 
 <!-- Fill out this section before going to sleep, reflecting on your day -->
-
-I need to finish the 'First 
