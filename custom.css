@@ -6,12 +6,12 @@ section.side-layout-main {
   
   footer.ant-layout-footer {
   /* Background color of the footer */
-  background: #de0404;
+  background:seagreen;
   }
   
   header.ant-layout-header {
   /* Background color of the header, with logo and search bar. */
-  background: #e0e0e0;
+  background:seagreen;
   }
   
   .dendron-tree-menu.ant-menu
@@ -35,14 +35,14 @@ section.side-layout-main {
 
 body {
   /** Color for all non-link text. */
-  color: antiquewhite;
+  color: white;
 }
 
 a,
 a:hover,
 a:active {
 /** Color for links, except ones that have been already visited. */
-color: aqua;
+color: #00ffff;
 }
 
 a:visited {
