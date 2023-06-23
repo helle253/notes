@@ -16,6 +16,10 @@
 // Stuff below here is kinda brittle, because if they ever use a different ant version, I 
 // might end up with broken css. We'll see!
 
+.site-title:hover {
+  color: fade(@primary-color, 85%)
+}
+
 // All breadcrumbs should have an underline the same color as their text (@text-color-secondary
 .ant-breadcrumb>span a {
   background-image: linear-gradient(@text-color-secondary 0%, @text-color-secondary 100%);
