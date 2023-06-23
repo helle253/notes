@@ -2,7 +2,7 @@
 body {
   /** Color for all non-link text. */
   color: white;
-  background: seagreen !important;;
+  background-color: seagreen;
 }
 
 a,
