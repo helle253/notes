@@ -16,17 +16,18 @@
 // Stuff below here is kinda brittle, because if they ever use a different ant version, I 
 // might end up with broken css. We'll see!
 
-.site-title {
-  color: @primary-color
-}.site-title:hover {
-  color: fade(@primary-color, 85%)
-}
-
 // The last breadcrumb uses the primary color instead of text-color-secondary
 .ant-breadcrumb>span:last-child a {
   color: @primary-color;
 }
 .ant-breadcrumb>span:last-child a:hover {
+  color: fade(@primary-color, 85%);
+}
+
+a {
+  color: @primary-color
+}
+a:hover {
   color: fade(@primary-color, 85%);
 }
 
