@@ -13,15 +13,17 @@
 // Background color for current note index in the table of contents
 @menu-item-active-bg: fade(@primary-color, 50%);
 
+// All breadcrumbds should have an underline the same color as their text
 .ant-breadcrumb>span a {
   background-image: linear-gradient(@text-color-secondary 0%, @text-color-secondary 100%);
 }
 
+// The last breadcrumb uses the primary color instead of text-color-secondary
 .ant-breadcrumb>span:last-child a {
   color: @primary-color;
   background-image: linear-gradient(@primary-color 0%, @primary-color 100%);
 }
 .ant-breadcrumb>span:last-child a:hover {
   color: fade(@primary-color, 65%);
-  background-image: linear-gradient(@primary-color 0%, @primary-color 100%);
+  background-image: none;
 }
