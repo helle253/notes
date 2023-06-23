@@ -26,11 +26,12 @@
 
 a {
   color: @primary-color;
-  background-image: none;
 }
 
 a:hover {
   color: fade(@primary-color, 85%);
-  background-image: none;
 }
 
+a:not([class]), a:not([class]):hover {
+  background-image: none;
+}
