@@ -93,8 +93,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Nathan Heller
+        description: Notes
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
