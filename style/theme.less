@@ -22,17 +22,14 @@
   color: fade(@primary-color, 85%)
 }
 
-// All breadcrumbs should have an underline the same color as their text (@text-color-secondary
-.ant-breadcrumb>span a {
-  background-image: linear-gradient(@text-color-secondary 0%, @text-color-secondary 100%);
-}
-
 // The last breadcrumb uses the primary color instead of text-color-secondary
 .ant-breadcrumb>span:last-child a {
   color: @primary-color;
-  background-image: linear-gradient(@primary-color 0%, @primary-color 100%);
 }
 .ant-breadcrumb>span:last-child a:hover {
   color: fade(@primary-color, 85%);
+}
+
+a:not([class]) {
   background-image: none;
 }
