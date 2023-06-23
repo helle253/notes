@@ -16,15 +16,19 @@
 // Stuff below here is kinda brittle, because if they ever use a different ant version, I 
 // might end up with broken css. We'll see!
 
-.site-title, .ant-menu-item:hover{
+.site-title {
   color: @primary-color
 }
-
-.site-title:hover, .ant-menu-item:hover {
+.site-title:hover {
   color: fade(@primary-color, 85%)
 }
 
-
+.ant-menu-item:hover {
+  color: fade(@white, 85%)
+}
+.ant-menu-item {
+  color: @white
+}
 
 // All breadcrumbs should have an underline the same color as their text (@text-color-secondary
 .ant-breadcrumb>span a {
