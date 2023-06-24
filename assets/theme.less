@@ -9,11 +9,12 @@
 @component-background: @background-color;
 @layout-header-background: @background-color;
 @layout-body-background: @background-color;
-@select-item-selected-color: pink;
-@select-item-active-bg: yellow;
 
-// Background color for current note index in the table of contents
-@menu-item-active-bg: green;
+// Background color for current note index in the table of contents.
+@menu-item-active-bg: fade(@primary-color, 50%);
+
+// Background color for selected item in search bar.
+@select-item-active-bg: fade(@primary-color, 50%);
 
 // Stuff below here is kinda brittle, because if they ever use a different ant version, I 
 // might end up with broken css. We'll see!
