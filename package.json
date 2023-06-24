@@ -15,8 +15,5 @@
   "license": "ISC",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.122.0"
-  },
-  "devDependencies": {
-    "@emeks/antd-custom-theme-generator": "0.2.1"
   }
 }
