@@ -82,6 +82,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     siteUrl: https://helle253.github.io
+    siteFaviconPath: assets
     assetsPrefix: /notes
     enableFMTitle: true
     enableNoteTitleForLink: true
