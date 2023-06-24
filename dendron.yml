@@ -81,10 +81,9 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: http://notes.hellbhoy.net
+    siteUrl: https://notes.hellbhoy.net
     siteFaviconPath: assets/favicon.ico
     logoPath: assets/logo.png
-    assetsPrefix: /notes
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
