@@ -22,4 +22,4 @@ I don't think these are by any means tightly linked, but I don't think they're u
 Parents are (reasonably!) not rational about the safety of their children. These things undermine one of the very basic premises of public schools - that they are safe environments.
 
 
-Anyways, I think that fear is reasonable. 
+Anyways, I think that fear is reasonable. It's not rational, but I don't place all that much stock in 'rationality' anyways. If the state cannot enforce the social contract in and around the place where our most vulnerable spend most of their waking hours, something is gravely wrong.
