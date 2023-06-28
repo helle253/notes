@@ -2,7 +2,7 @@
 id: dv4qj9hqz478tmdcvs29zbp
 title: Astro Cards
 desc: ''
-updated: 1687970763676
+updated: 1687970861296
 created: 1687969521827
 ---
 ![](assets/postcard-pisces.png.png)
@@ -15,4 +15,4 @@ To this end, I drafted a series of 12 small poems. You can see in the image abov
 Baskerville was an intuitive choice of typeface, being a product of the era I intended to emulate. I'm sure others exist, but Baskerville is popular and readily available for use.
 ![Baskerville](assets/baskerville.png)
 
-These would be a useful tool for anyone interested in chart-drawing. There is enough space to briefly elucidate the chart, but the space for the chart itself is not too small so as to be cramped.
+These would be a useful tool for anyone interested in chart-drawing. There is enough space to briefly elucidate the chart, but the space for the chart itself is not too small so as to be cramped. I wasn't satisfied with the finish on the first batch and one day will revisit. For now I just have a stack of 4x6 bookmarks.
