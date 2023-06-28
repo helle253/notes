@@ -2,10 +2,10 @@
 id: 3wrqfar0uaz0v4pp4e62ta3
 title: Packmule
 desc: ''
-updated: 1687978267513
+updated: 1687978572123
 created: 1687479679590
 ---
-## [Packmule Boulangerie](https://github.com/helle253/packmule)
+## Packmule Boulangerie ([Source Code](https://github.com/helle253/packmule))
 
 A rails app I put together for a buddy of mine. It is not currently live, unfortunately.
 
