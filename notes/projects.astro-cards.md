@@ -2,10 +2,10 @@
 id: dv4qj9hqz478tmdcvs29zbp
 title: Astro Cards
 desc: ''
-updated: 1687970947221
+updated: 1687975239080
 created: 1687969521827
 ---
-![](assets/postcard-pisces.png.png)
+![](assets/postcard-pisces.png)
 
 I am collector and sender of postcards and this was a small project undertaken to create a series of 12 postcards, each themed off the traditional zodiac symbols. The intention is to provide a canvas to showcase Dr. John Bevis's [Uranographia Britannica (ca. 1749)](https://publicdomainreview.org/collection/bevis-uranographia) on the front side (I'm a huge fan of the public domain!).
 
