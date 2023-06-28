@@ -2,7 +2,7 @@
 id: 3wrqfar0uaz0v4pp4e62ta3
 title: Packmule
 desc: ''
-updated: 1687978025153
+updated: 1687978179666
 created: 1687479679590
 ---
 ## [Packmule Boulangerie](https://github.com/helle253/packmule)
@@ -19,4 +19,6 @@ I wanted to add some primitive controls (view-angle, distance, rotation speed, d
 
 The cursor is missing in this snippet, but hovering over one of the cards would pause the rotation!
 
-The rest of the app is fully functional, albeit sparingg
+The rest of the app is fully functional, albeit sparing. Users can sign up and sign up for food-boxes. Admins can sign in, manage users, record notes about them (for recording delivery instructions), and upload media (with the intention of showcasing previous boxes).
+
+It was an enjoyable experience building this, the folks I built it for were and are super collaborative partners.
