@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1688907289205
+updated: 1688907386822
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -14,3 +14,5 @@ Guarana Original - 7/10 tastes like sour apple masking chemicals
 Alokozay Energy - 4/10 tastes like chemicals
 ![Ginseng Energy](assets/ginseng-energy.png)
 Ginseng Energy - 8/10 i dont know if this had caffeine, but it tasted pretty good. I would drink this. Tasted like pear juice.
+![Carabao Energy Drink](assets/carabao.png)
+Carabao - 5/10 - Sugar rush in a can, I think its the exact same stuff as the M150 in a different can.
