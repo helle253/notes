@@ -1,8 +1,8 @@
 ---
 id: 5ti7u3qrblm1i1i3ih9k685
 title: Nighttime Rituals
-desc: '2:30 AM, Jan. 6 2023'
-updated: 1689881960101
+desc: '2:30 AM, Dec. 14 2022'
+updated: 1689882000533
 created: 1689881839663
 ---
 It’s my shift and I cannot sleep
