@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1689646633515
+updated: 1690560567040
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -28,3 +28,10 @@ Bing Cherry - 7/10 - i dont like cherries all that mucch :(
 
 ![Bing Black](assets/bing-black.png)
 Bing Black - 10/10 - surprised by this one, Blackberries are underrated.
+
+![G Fuel Sonic](assets/gfuel-sonic.jpg)
+Knockoff peach Monster. 7.5/10
+
+![Prime](assets/prime.jpg)
+Tastes like those popsicles. Banned in Canada. 9/10
+
