@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694137950782
+updated: 1694138274065
 created: 1694133179981
 ---
 
@@ -31,3 +31,7 @@ Weird fella:
   In two days time you will see me again
 
 The address smells like an underwater grotto. It's disgusting and awfully taken care of.
+
+mumbling/animal noise coming from the kitchen.
+
+Extremely old man in the kitchen, he's what cackled when i threw some shit in there.
