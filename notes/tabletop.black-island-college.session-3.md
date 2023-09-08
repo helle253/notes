@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694135156911
+updated: 1694137261361
 created: 1694133179981
 ---
 
@@ -23,3 +23,9 @@ Bartender is a college aged kid, makes eye contact and gives what appears to be 
 Magazine is popular mechanics, with a scifi-esque picture of an energizer bunny
 
 Wilson Pickens
+
+
+Weird fella:
+  It squats in the center of time. It squats in the jungle of Kled.
+
+  In two days time you will see me again
