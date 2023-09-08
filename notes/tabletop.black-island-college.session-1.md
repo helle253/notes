@@ -1,6 +1,6 @@
 ---
 id: 1ove0lgxk81uxjpqzl3edim
-title: Session 1 Notes
+title: Session 1
 desc: ''
 updated: 1691115399936
 created: 1691109412512
