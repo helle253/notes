@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694134324299
+updated: 1694134672268
 created: 1694133179981
 ---
 
@@ -17,3 +17,5 @@ Maze Oyster company is the major employer in town if Moorish Harbor.
 This place is totally empty, eerily so considering.
 
 Jacob's Fish Restaurant seems to be the only restaurant in town.
+
+Bartender is a college aged kid, makes eye contact and gives what appears to be some sort of nod of recognition
