@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694134207220
+updated: 1694134324299
 created: 1694133179981
 ---
 
@@ -15,3 +15,5 @@ Taking 20G Shotgun and 4 extra shells
 Maze Oyster company is the major employer in town if Moorish Harbor.
 
 This place is totally empty, eerily so considering.
+
+Jacob's Fish Restaurant seems to be the only restaurant in town.
