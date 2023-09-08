@@ -2,7 +2,7 @@
 id: 5wybjr75c9kvmj0cqt49gi0
 title: Session 2
 desc: ''
-updated: 1694135839068
+updated: 1694135929216
 created: 1692491724653
 ---
 
@@ -38,4 +38,4 @@ Diary on the desk that Huber is sitting down to read.
 
 Moorish Harbor 10 miles south of Soquoroset
 
-Down towards the harbor
+Silas: This address we are headed to in Moorish Harbor - down in the 'Grecian' neighborhood. A guy, Christos, from Crete, said they dont speak any Greek he knows. they showed up around 18 months ago. Don't speak english, dont know where they came from. They're more lost in America than they musta been wherever they came from.
