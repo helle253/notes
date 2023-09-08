@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694138593809
+updated: 1694138681378
 created: 1694133179981
 ---
 
@@ -39,3 +39,5 @@ Extremely old man in the kitchen, he's what cackled when i threw some shit in th
 Blind, immobile old guy wearing a faux catholic monk robe and a necklace with several pendants which appear to be mummified human body parts.
 
 Dondoza? thats his name. He's eating slop! Several Spark cigar bands and cola.
+
+Layton Jones is the name of the Dean (i forgot)
