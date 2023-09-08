@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694134953259
+updated: 1694135156911
 created: 1694133179981
 ---
 
@@ -21,3 +21,5 @@ Jacob's Fish Restaurant seems to be the only restaurant in town.
 Bartender is a college aged kid, makes eye contact and gives what appears to be some sort of nod of recognition
 
 Magazine is popular mechanics, with a scifi-esque picture of an energizer bunny
+
+Wilson Pickens
