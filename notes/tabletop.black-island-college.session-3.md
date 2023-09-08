@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694138274065
+updated: 1694138385683
 created: 1694133179981
 ---
 
@@ -35,3 +35,7 @@ The address smells like an underwater grotto. It's disgusting and awfully taken 
 mumbling/animal noise coming from the kitchen.
 
 Extremely old man in the kitchen, he's what cackled when i threw some shit in there.
+
+Blind, immobile old guy wearing a faux catholic monk robe and a necklace with several pendants which appear to be mummified human body parts.
+
+Gondoza?
