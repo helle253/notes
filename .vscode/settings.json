@@ -3,4 +3,10 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "pasteImage.path": "${currentFileDir}/assets",
   "pasteImage.prefix": "/",
+  "files.autoSave": "onFocusChange",
+  "editor.snippetSuggestions": "inline",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggest.showSnippets": true,
+  "editor.tabCompletion": "on",
+  "dendron.enableSelfContainedVaultWorkspace": true,
 }
