@@ -11,17 +11,15 @@
     ],
     "settings": {
         "dendron.rootDir": ".",
-        "files.autoSave": "onFocusChange",
-        "pasteImage.path": "${currentFileDir}/assets/images",
-        "pasteImage.prefix": "/",
-        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+        "dendron.enableSelfContainedVaultWorkspace": true,
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        "dendron.enableSelfContainedVaultWorkspace": true,
-        "gitdoc.enabled": true
+        "files.autoSave": "onFocusChange",
+        "gitdoc.enabled": true,
+        "pasteImage.path": "${currentFileDir}/assets/images",
+        "pasteImage.prefix": "/",
     },
     "extensions": {
         "recommendations": [
