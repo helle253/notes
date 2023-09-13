@@ -8,7 +8,7 @@ created: 1694629178802
 ![Ereb](assets/ereb-icon.png)
 
 ## Aspects
-Major [[games.book-of-hours.soul-aspects.grail]]
+Major [[games.book-of-hours.aspects.principles.grail]]
 
 Minor [[
 
