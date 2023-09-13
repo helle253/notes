@@ -2,10 +2,10 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694642510115
+updated: 1694642763133
 created: 1694629178802
 ---
-![Ereb](assets/ereb-icon.png)
+![Ereb](assets/icon-ereb.png)
 
 ## Aspects
 
