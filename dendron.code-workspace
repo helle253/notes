@@ -1,38 +1,42 @@
 {
-  "folders": [
-    {
-      "path": "notes",
-      "name": "notes"
-    }
-  ],
-  "settings": {
-    "dendron.rootDir": ".",
-    "files.autoSave": "onFocusChange",
-    "pasteImage.path": "${currentFileDir}/assets/images",
-    "pasteImage.prefix": "/",
-    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
-    "editor.snippetSuggestions": "inline",
-    "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "editor.suggest.showSnippets": true,
-    "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true,
-    "gitdoc.enabled": true
-  },
-  "extensions": {
-    "recommendations": [
-      "dendron.dendron",
-      "dendron.dendron-paste-image",
-      "dendron.dendron-markdown-shortcuts",
-      "redhat.vscode-yaml"
+    "folders": [
+        {
+            "path": "dependencies/localhost/book-of-hours/notes",
+            "name": "book-of-hours"
+        },
+        {
+            "path": "notes",
+            "name": "notes"
+        }
     ],
-    "unwantedRecommendations": [
-      "dendron.dendron-markdown-links",
-      "dendron.dendron-markdown-notes",
-      "dendron.dendron-markdown-preview-enhanced",
-      "shd101wyy.markdown-preview-enhanced",
-      "kortina.vscode-markdown-notes",
-      "mushan.vscode-paste-image"
-    ]
-  }
+    "settings": {
+        "dendron.rootDir": ".",
+        "files.autoSave": "onFocusChange",
+        "pasteImage.path": "${currentFileDir}/assets/images",
+        "pasteImage.prefix": "/",
+        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+        "editor.snippetSuggestions": "inline",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggest.showSnippets": true,
+        "editor.tabCompletion": "on",
+        "dendron.enableSelfContainedVaultWorkspace": true,
+        "gitdoc.enabled": true
+    },
+    "extensions": {
+        "recommendations": [
+            "dendron.dendron",
+            "dendron.dendron-paste-image",
+            "dendron.dendron-markdown-shortcuts",
+            "redhat.vscode-yaml"
+        ],
+        "unwantedRecommendations": [
+            "dendron.dendron-markdown-links",
+            "dendron.dendron-markdown-notes",
+            "dendron.dendron-markdown-preview-enhanced",
+            "shd101wyy.markdown-preview-enhanced",
+            "kortina.vscode-markdown-notes",
+            "mushan.vscode-paste-image"
+        ]
+    }
 }
