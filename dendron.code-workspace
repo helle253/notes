@@ -1,10 +1,6 @@
 {
     "folders": [
         {
-            "path": "dependencies/localhost/book-of-hours/notes",
-            "name": "book-of-hours"
-        },
-        {
             "path": "notes",
             "name": "notes"
         }
