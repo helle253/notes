@@ -2,7 +2,7 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694630155036
+updated: 1694641972963
 created: 1694629178802
 ---
 ![Ereb](assets/ereb-icon.png)
@@ -10,7 +10,7 @@ created: 1694629178802
 ## Aspects
 Major [[games.book-of-hours.soul-aspects.grail]]
 
-Minor [[games.book-of-hours.soul-aspects.edge]]
+Minor [[
 
 ## Workstations
 
@@ -21,7 +21,5 @@ Location | Tree of Wisdom |
 |[[games.book-of-hours.workstations.practice-garden-dummy]]| [[games.book-of-hours.tree-of-wisdom.illumination]] |
 |[[games.book-of-hours.workstations.practice-equipment]]| [[games.book-of-hours.tree-of-wisdom.illumination]] |
 |[[games.book-of-hours.workstations.shrine-the-chancel]]|[[games.book-of-hours.tree-of-wisdom.horomachistry]] |
-
-TODO:
 
 What skills offer Ereb in the tree of wisdom?
