@@ -2,15 +2,16 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694641972963
+updated: 1694642388075
 created: 1694629178802
 ---
 ![Ereb](assets/ereb-icon.png)
 
 ## Aspects
+
 Major [[games.book-of-hours.aspects.principles.grail]]
 
-Minor [[
+Minor [[games.book-of-hours.aspects.principles.edge]]
 
 ## Workstations
 
