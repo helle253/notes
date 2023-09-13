@@ -1,21 +1,23 @@
 {
   "folders": [
-    {
-      "path": "notes",
-    }
+      {
+          "path": "notes",
+          "name": "notes"
+      }
   ],
   "settings": {
       "dendron.rootDir": ".",
-      "dendron.enableSelfContainedVaultWorkspace": true,
+      "files.autoSave": "onFocusChange",
+      "pasteImage.path": "${currentFileDir}/assets/images",
+      "pasteImage.prefix": "/",
+      "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+      "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
       "editor.snippetSuggestions": "inline",
       "editor.suggest.snippetsPreventQuickSuggestions": false,
       "editor.suggest.showSnippets": true,
       "editor.tabCompletion": "on",
-      "files.autoSave": "onFocusChange",
-      "gitdoc.enabled": true,
-      "pasteImage.path": "${projectRoot}/notes/assets",
-      "pasteImage.basePath": "${projectRoot}/notes",
-      "pasteImage.prefix": "/"
+      "dendron.enableSelfContainedVaultWorkspace": true,
+      "gitdoc.enabled": true
   },
   "extensions": {
       "recommendations": [
