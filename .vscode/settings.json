@@ -1,6 +1,7 @@
 {
   "gitdoc.enabled": true,
   "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
   "pasteImage.path": "${currentFileDir}/assets",
   "pasteImage.defaultName": "${currentFileNameWithoutExt}",
   "pasteImage.prefix": "/",
