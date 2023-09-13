@@ -2,7 +2,7 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694642388075
+updated: 1694642510115
 created: 1694629178802
 ---
 ![Ereb](assets/ereb-icon.png)
@@ -24,3 +24,4 @@ Location | Tree of Wisdom |
 |[[games.book-of-hours.workstations.shrine-the-chancel]]|[[games.book-of-hours.tree-of-wisdom.horomachistry]] |
 
 What skills offer Ereb in the tree of wisdom?
+
