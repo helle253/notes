@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "notes"
+		}
+	],
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
