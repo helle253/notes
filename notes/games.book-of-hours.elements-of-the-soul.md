@@ -1,7 +1,7 @@
 ---
 id: knd8d5vwu6zsogjkwkrxgn1
-title: Soul Elements
+title: Elements of the Soul
 desc: ''
-updated: 1694628820838
+updated: 1694629132845
 created: 1694628820838
 ---
