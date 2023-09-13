@@ -18,7 +18,7 @@
         "editor.tabCompletion": "on",
         "files.autoSave": "onFocusChange",
         "gitdoc.enabled": true,
-        "pasteImage.path": "${currentFileDir}/assets/images",
+        "pasteImage.path": "${currentFileDir}/notes/assets",
         "pasteImage.prefix": "/",
     },
     "extensions": {
