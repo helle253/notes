@@ -2,7 +2,7 @@
 id: p46dq53t6hzlen8ivgw87s1
 title: Gideons Soaks
 desc: ''
-updated: 1694785009462
+updated: 1694832196997
 created: 1694784862075
 ---
 
@@ -13,4 +13,7 @@ created: 1694784862075
 
 ### Crafting
 
-10 [[book-of-hours.aspects.principles.heart]] + [[book-of-hours.things.liquids]] + [[book-of-hours.skills.quenchings-&-quellings]]
+10 [[book-of-hours.aspects.principles.heart]] + [[book-of-hours.things.liquids]]
+
+- [[book-of-hours.skills.quenchings-&-quellings]]
+- [[book-of-hours.skills.surgeries-&-exsanguinations]]
