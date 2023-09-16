@@ -2,7 +2,7 @@
 id: xhp2opkves3wrgdpxph3te6
 title: Bitterblack Salts
 desc: ''
-updated: 1694832581998
+updated: 1694833543956
 created: 1694832459575
 ---
 
@@ -16,3 +16,4 @@ Pigment. Material.
 
 - [[book-of-hours.skills.anbary-and-lapidary]]
 - [[book-of-hours.skills.transformations-&-liberations]]
+- [[book-of-hours.skills.bells-&-brazieries]]

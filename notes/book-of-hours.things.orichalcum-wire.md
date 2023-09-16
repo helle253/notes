@@ -2,7 +2,7 @@
 id: uv4awg5mwgpf4qral573bj4
 title: Orichalcum Wire
 desc: ''
-updated: 1694832381809
+updated: 1694833516683
 created: 1694832348584
 ---
 
@@ -12,3 +12,4 @@ created: 1694832348584
 10 [[book-of-hours.aspects.principles.forge]] + [[book-of-hours.things.metal]]
 
 - [[book-of-hours.skills.disciplines-of-the-hammer]]
+- [[book-of-hours.skills.bells-&-brazieries]]
