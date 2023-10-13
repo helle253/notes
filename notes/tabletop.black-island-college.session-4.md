@@ -2,7 +2,7 @@
 id: 37uxhwk6p0ywdt70ryvt7b3
 title: Session 4
 desc: ''
-updated: 1697161733176
+updated: 1697163196675
 created: 1697156940530
 ---
 Skill check passes:
@@ -44,3 +44,5 @@ hey... i know this guy
 jenkins?????
 
 lost 1 sanity
+
+6 damage
