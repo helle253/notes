@@ -2,7 +2,7 @@
 id: 37uxhwk6p0ywdt70ryvt7b3
 title: Session 4
 desc: ''
-updated: 1697161045037
+updated: 1697161545440
 created: 1697156940530
 ---
 Skill check passes:
@@ -36,3 +36,7 @@ anyways, hes dead probably.
 took 1 damage
 
 lost 1 sanity
+
+some guy came and sat at the fucking dining table
+
+hey... i know this guy
