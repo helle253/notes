@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699303261510
+updated: 1699305197508
 created: 1699302406656
 ---
 
@@ -18,3 +18,6 @@ Yue Qingchao
 Long Shaqing
 Yin Dongyun
 Gu Wan
+
+### Purple Cloud Temple
+Zeng Yun
