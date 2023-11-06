@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699305197508
+updated: 1699305315289
 created: 1699302406656
 ---
 
@@ -21,3 +21,5 @@ Gu Wan
 
 ### Purple Cloud Temple
 Zeng Yun
+Mi Nan
+E Rutian
