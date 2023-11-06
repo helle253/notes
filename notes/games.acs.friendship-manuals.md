@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699305315289
+updated: 1699305787681
 created: 1699302406656
 ---
 
@@ -23,3 +23,5 @@ Gu Wan
 Zeng Yun
 Mi Nan
 E Rutian
+Shentu Xi
+Yu Yushi
