@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699303098193
+updated: 1699303166435
 created: 1699302406656
 ---
 
@@ -16,3 +16,4 @@ Lin Siyuan
 Ning Xiao
 Yue Qingchao
 Long Shaqing
+Yin Dongyun
