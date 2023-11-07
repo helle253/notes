@@ -2,7 +2,7 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699366834233
+updated: 1699366960953
 created: 1699366790127
 ---
 ## Leads
@@ -14,7 +14,13 @@ created: 1699366790127
 ### Purple Cloud Temple
 
 - [x] Done i think
+- [ ] withdrawn personalities
 
+### Withdrawn
+Xin Qi
+
+Shentu Xi
+Qin Ji
 
 #### Shentu Xi
 
@@ -27,6 +33,12 @@ created: 1699366790127
 ### Mt. Hundred Insects
 
 - [x] Done i think
+- [ ] Withdrawn personalities need to be broken
+
+### Pit of Doom
+
+- [x] figure out who knows the mysteries
+- [ ] break withdrawn personalities
 
 Mostly investigated? Not sure I have more to do here.
 Already investigated. No further notes
