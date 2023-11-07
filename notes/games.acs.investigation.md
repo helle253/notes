@@ -2,7 +2,7 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699367089294
+updated: 1699367138028
 created: 1699366790127
 ---
 ### Leads
@@ -19,11 +19,6 @@ created: 1699366790127
 ##### Withdrawn
 
 Xin Qi
-
-Shentu Xi
-Qin Ji
-
-#### Shentu Xi
 
 ### Evenfall Abode
 
