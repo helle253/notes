@@ -2,7 +2,7 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699370589518
+updated: 1699371081963
 created: 1699366790127
 ---
 ### Leads
@@ -11,9 +11,7 @@ created: 1699366790127
 
 #### Exultant Sect
 
-- [ ] FINISH
-
-Qing Yulan
+- [x] FINISH
 
 #### Purple Cloud Temple
 
