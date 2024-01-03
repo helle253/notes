@@ -2,7 +2,7 @@
 id: nv1e9lajog4b3j1g7bk7bux
 title: OSInt Mapping
 desc: ''
-updated: 1704309528837
+updated: 1704310693565
 created: 1704308910147
 published: false
 ---
@@ -37,6 +37,10 @@ Me
 ## Data Sources
 
 ### Acars
+
+### Marine Vessel Location Data
+
+<https://aisstream.io/>
 
 ### Planet Labs
 
