@@ -2,7 +2,7 @@
 id: nv1e9lajog4b3j1g7bk7bux
 title: OSInt Mapping
 desc: ''
-updated: 1704310693565
+updated: 1704310807449
 created: 1704308910147
 published: false
 ---
@@ -40,7 +40,14 @@ Me
 
 ### Marine Vessel Location Data
 
-<https://aisstream.io/>
+#### [aisstream.io](https://aisstream.io/)
+
+Tracks more than just location data:
+
+- Binary Ship To Ship Messages
+- SAR Aircraft Position
+- Accident And Danger Reports
+- Ship Property and Voyage Data
 
 ### Planet Labs
 
