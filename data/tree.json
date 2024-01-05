@@ -1,0 +1,465 @@
+{
+  "roots": [
+    {
+      "key": "8y9imkazwrza5d8cgrnihjt",
+      "title": "Books",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "hx23fqpdslr1wmdmmgikle4",
+          "title": "A Peoples Tragedy the Russian Revolution",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "ayuib4erptj684h47xuuza7",
+          "title": "Fossil Legends of the First Americans",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "hh7ynd6lmogeao6u50pziw1",
+          "title": "Sand County Almanac",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "stt1r4lq1i1cl1rbbj0fv1t",
+          "title": "Strategy without Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "o8dcc2l9iz8h63o6fcukeho",
+          "title": "The History of the Devil",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "cfmcgisuxw1f0b53bhlz2at",
+      "title": "Daily",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "qlt0k8a4o8qn2wm2rur25ha",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "4ho9xyqo721qi0l4q79f2xk",
+              "title": "2023",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": [
+                {
+                  "key": "x2kygntgijudvuoahsm7a6b",
+                  "title": "10",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ajz6580866efuh6yecsd0f2",
+              "title": "2024",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": [
+                {
+                  "key": "l95jivgmxz3prllx2wuua1s",
+                  "title": "01",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "notes",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "yfki01j6c2c4d08qezphbrk",
+      "title": "Exercise",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": []
+    },
+    {
+      "key": "ancelueizc2gyx6278lqpl2",
+      "title": "Games",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "cq0rh9999f1wyqjocl5m10p",
+          "title": "Acs",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "wov6k1psj3ouwkjfqeyyl3x",
+              "title": "Friendship Manuals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "ok2sp5mm61wi8sehjsas6a9",
+              "title": "Investigation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tj3fpwtnqlmf7i30wjmtqs2",
+      "title": "Misc",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "o9humi35aw8s3l5j5hm45mx",
+          "title": "6 23 2023 Wagner Putsch",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "kicm5w8v1cn7zam0wi4t0fr",
+          "title": "Energy Drinks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "rqlf2hsyoybrwb13pv4n2r6",
+          "title": "Midwest Geography",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "rcfe4aht7fbqsh2z51v9418",
+          "title": "Religion",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "gakkku67cjvxlaubsknbmai",
+              "title": "Trinity",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "huwmzpo8hrwemb0v0j4d77u",
+      "title": "Projects",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "dv4qj9hqz478tmdcvs29zbp",
+          "title": "Astro Cards",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "16hashjrap0fiv3uexw1tux",
+          "title": "Software",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "tkdutmzpz7rzne28r9m680h",
+              "title": "Dendron",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "lk0x0u1sbahf3dnfvsvr6lk",
+              "title": "Face Scanner",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "3wrqfar0uaz0v4pp4e62ta3",
+              "title": "Packmule",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ywcnyhutvy09ld1y00p4szo",
+      "title": "Religion",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "2locvi0hjoy2lku9ep7ou6x",
+          "title": "Islam",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "ui2c31uumit4n64g3oadc5s",
+              "title": "Unorganized Notes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "71aycm1vmzw3gqze7uob3gd",
+      "title": "Tabletop",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "0xd6t3erq6lrpd2fo88fek5",
+          "title": "Black Island College",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "1ove0lgxk81uxjpqzl3edim",
+              "title": "Session 1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "5wybjr75c9kvmj0cqt49gi0",
+              "title": "Session 2",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "pexhr5c06axef16euy21qi4",
+              "title": "Session 3",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "37uxhwk6p0ywdt70ryvt7b3",
+              "title": "Session 4",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "1ohjqoqttgkk7tnjjnx2t11",
+      "title": "Writing",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "7c3xlbckifxf1zjdhiqngp3",
+          "title": "Creative",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "bx2l5oi50su5vp1yo582oq7",
+              "title": "A Journey",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "3tzn5zmxnzybku6mycdy1v7",
+              "title": "American Dreamtime",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "zwv64dgqygxfartb75dt03e",
+              "title": "Astro Poems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "5ti7u3qrblm1i1i3ih9k685",
+              "title": "Nighttime Rituals",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "8y9imkazwrza5d8cgrnihjt": null,
+    "hx23fqpdslr1wmdmmgikle4": "8y9imkazwrza5d8cgrnihjt",
+    "ayuib4erptj684h47xuuza7": "8y9imkazwrza5d8cgrnihjt",
+    "hh7ynd6lmogeao6u50pziw1": "8y9imkazwrza5d8cgrnihjt",
+    "stt1r4lq1i1cl1rbbj0fv1t": "8y9imkazwrza5d8cgrnihjt",
+    "o8dcc2l9iz8h63o6fcukeho": "8y9imkazwrza5d8cgrnihjt",
+    "cfmcgisuxw1f0b53bhlz2at": null,
+    "qlt0k8a4o8qn2wm2rur25ha": "cfmcgisuxw1f0b53bhlz2at",
+    "4ho9xyqo721qi0l4q79f2xk": "qlt0k8a4o8qn2wm2rur25ha",
+    "x2kygntgijudvuoahsm7a6b": "4ho9xyqo721qi0l4q79f2xk",
+    "ajz6580866efuh6yecsd0f2": "qlt0k8a4o8qn2wm2rur25ha",
+    "l95jivgmxz3prllx2wuua1s": "ajz6580866efuh6yecsd0f2",
+    "yfki01j6c2c4d08qezphbrk": null,
+    "ancelueizc2gyx6278lqpl2": null,
+    "cq0rh9999f1wyqjocl5m10p": "ancelueizc2gyx6278lqpl2",
+    "wov6k1psj3ouwkjfqeyyl3x": "cq0rh9999f1wyqjocl5m10p",
+    "ok2sp5mm61wi8sehjsas6a9": "cq0rh9999f1wyqjocl5m10p",
+    "tj3fpwtnqlmf7i30wjmtqs2": null,
+    "o9humi35aw8s3l5j5hm45mx": "tj3fpwtnqlmf7i30wjmtqs2",
+    "kicm5w8v1cn7zam0wi4t0fr": "tj3fpwtnqlmf7i30wjmtqs2",
+    "rqlf2hsyoybrwb13pv4n2r6": "tj3fpwtnqlmf7i30wjmtqs2",
+    "rcfe4aht7fbqsh2z51v9418": "tj3fpwtnqlmf7i30wjmtqs2",
+    "gakkku67cjvxlaubsknbmai": "rcfe4aht7fbqsh2z51v9418",
+    "huwmzpo8hrwemb0v0j4d77u": null,
+    "dv4qj9hqz478tmdcvs29zbp": "huwmzpo8hrwemb0v0j4d77u",
+    "16hashjrap0fiv3uexw1tux": "huwmzpo8hrwemb0v0j4d77u",
+    "tkdutmzpz7rzne28r9m680h": "16hashjrap0fiv3uexw1tux",
+    "lk0x0u1sbahf3dnfvsvr6lk": "16hashjrap0fiv3uexw1tux",
+    "3wrqfar0uaz0v4pp4e62ta3": "16hashjrap0fiv3uexw1tux",
+    "ywcnyhutvy09ld1y00p4szo": null,
+    "2locvi0hjoy2lku9ep7ou6x": "ywcnyhutvy09ld1y00p4szo",
+    "ui2c31uumit4n64g3oadc5s": "2locvi0hjoy2lku9ep7ou6x",
+    "71aycm1vmzw3gqze7uob3gd": null,
+    "0xd6t3erq6lrpd2fo88fek5": "71aycm1vmzw3gqze7uob3gd",
+    "1ove0lgxk81uxjpqzl3edim": "0xd6t3erq6lrpd2fo88fek5",
+    "5wybjr75c9kvmj0cqt49gi0": "0xd6t3erq6lrpd2fo88fek5",
+    "pexhr5c06axef16euy21qi4": "0xd6t3erq6lrpd2fo88fek5",
+    "37uxhwk6p0ywdt70ryvt7b3": "0xd6t3erq6lrpd2fo88fek5",
+    "1ohjqoqttgkk7tnjjnx2t11": null,
+    "7c3xlbckifxf1zjdhiqngp3": "1ohjqoqttgkk7tnjjnx2t11",
+    "bx2l5oi50su5vp1yo582oq7": "7c3xlbckifxf1zjdhiqngp3",
+    "3tzn5zmxnzybku6mycdy1v7": "7c3xlbckifxf1zjdhiqngp3",
+    "zwv64dgqygxfartb75dt03e": "7c3xlbckifxf1zjdhiqngp3",
+    "5ti7u3qrblm1i1i3ih9k685": "7c3xlbckifxf1zjdhiqngp3"
+  },
+  "notesLabelById": {
+    "8y9imkazwrza5d8cgrnihjt": "Books",
+    "hx23fqpdslr1wmdmmgikle4": "A Peoples Tragedy the Russian Revolution",
+    "ayuib4erptj684h47xuuza7": "Fossil Legends of the First Americans",
+    "hh7ynd6lmogeao6u50pziw1": "Sand County Almanac",
+    "stt1r4lq1i1cl1rbbj0fv1t": "Strategy without Design",
+    "o8dcc2l9iz8h63o6fcukeho": "The History of the Devil",
+    "cfmcgisuxw1f0b53bhlz2at": "Daily",
+    "qlt0k8a4o8qn2wm2rur25ha": "Journal",
+    "4ho9xyqo721qi0l4q79f2xk": "2023",
+    "x2kygntgijudvuoahsm7a6b": "10",
+    "ajz6580866efuh6yecsd0f2": "2024",
+    "l95jivgmxz3prllx2wuua1s": "01",
+    "yfki01j6c2c4d08qezphbrk": "Exercise",
+    "ancelueizc2gyx6278lqpl2": "Games",
+    "cq0rh9999f1wyqjocl5m10p": "Acs",
+    "wov6k1psj3ouwkjfqeyyl3x": "Friendship Manuals",
+    "ok2sp5mm61wi8sehjsas6a9": "Investigation",
+    "tj3fpwtnqlmf7i30wjmtqs2": "Misc",
+    "o9humi35aw8s3l5j5hm45mx": "6 23 2023 Wagner Putsch",
+    "kicm5w8v1cn7zam0wi4t0fr": "Energy Drinks",
+    "rqlf2hsyoybrwb13pv4n2r6": "Midwest Geography",
+    "rcfe4aht7fbqsh2z51v9418": "Religion",
+    "gakkku67cjvxlaubsknbmai": "Trinity",
+    "huwmzpo8hrwemb0v0j4d77u": "Projects",
+    "dv4qj9hqz478tmdcvs29zbp": "Astro Cards",
+    "16hashjrap0fiv3uexw1tux": "Software",
+    "tkdutmzpz7rzne28r9m680h": "Dendron",
+    "lk0x0u1sbahf3dnfvsvr6lk": "Face Scanner",
+    "3wrqfar0uaz0v4pp4e62ta3": "Packmule",
+    "ywcnyhutvy09ld1y00p4szo": "Religion",
+    "2locvi0hjoy2lku9ep7ou6x": "Islam",
+    "ui2c31uumit4n64g3oadc5s": "Unorganized Notes",
+    "71aycm1vmzw3gqze7uob3gd": "Tabletop",
+    "0xd6t3erq6lrpd2fo88fek5": "Black Island College",
+    "1ove0lgxk81uxjpqzl3edim": "Session 1",
+    "5wybjr75c9kvmj0cqt49gi0": "Session 2",
+    "pexhr5c06axef16euy21qi4": "Session 3",
+    "37uxhwk6p0ywdt70ryvt7b3": "Session 4",
+    "1ohjqoqttgkk7tnjjnx2t11": "Writing",
+    "7c3xlbckifxf1zjdhiqngp3": "Creative",
+    "bx2l5oi50su5vp1yo582oq7": "A Journey",
+    "3tzn5zmxnzybku6mycdy1v7": "American Dreamtime",
+    "zwv64dgqygxfartb75dt03e": "Astro Poems",
+    "5ti7u3qrblm1i1i3ih9k685": "Nighttime Rituals"
+  }
+}
