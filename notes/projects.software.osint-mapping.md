@@ -2,7 +2,7 @@
 id: nv1e9lajog4b3j1g7bk7bux
 title: OSInt Mapping
 desc: ''
-updated: 1704409344198
+updated: 1704462125983
 created: 1704308910147
 published: false
 ---
@@ -38,7 +38,13 @@ Me
 
 ### Acars
 
+#### Airframes
+
 <https://app.airframes.io/messages/live>
+
+It's cool, relies on more than just ads-b. but no stations anywhere near any place of interest
+
+#### Flightradar
 
 ### Marine Vessel Location Data
 
