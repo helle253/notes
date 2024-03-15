@@ -2,7 +2,7 @@
 id: jm9rzhy27qtismmtxxebpji
 title: Running Journal
 desc: ''
-updated: 1710532558335
+updated: 1710532592137
 created: 1688094720682
 published: false
 ---
@@ -23,11 +23,10 @@ Did ok, didn't finish the last 1/5mi at the pace i wanted. Shoulda been under 27
 
 bad but its been a while
 
+2024-02-29 - 2.93mi - 30:00
 
-29-02-2024 - 2.93mi - 30:00
+2024-03-01 - 3.21mi - 30:01
 
-01-03-2024 - 3.21mi - 30:01
-
-11-03-2024 - 3.31mi - 31:26
+2024-03-11 - 3.31mi - 31:26
 
 2024-03-15 - 3.42mi - 31:00
