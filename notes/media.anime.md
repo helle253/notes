@@ -2,7 +2,7 @@
 id: ebbcmkoia2heqmyan901n78
 title: Anime
 desc: ''
-updated: 1729624956564
+updated: 1729625026579
 created: 1729624701021
 ---
 
@@ -23,4 +23,6 @@ Dumping a list of anime (and other, similar animated flicks) I like.
 - Mob Psycho 100
 - Mononoke
 - One Punch Man
-- 
+- Baccano
+- Hunter X Hunter
+- Dorohedoro
