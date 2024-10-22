@@ -2,11 +2,11 @@
 id: ebbcmkoia2heqmyan901n78
 title: Anime
 desc: ''
-updated: 1729624788189
+updated: 1729624956564
 created: 1729624701021
 ---
 
-Dumping a list of shows I like, and rough idea when I watched it, if I remember when.
+Dumping a list of anime (and other, similar animated flicks) I like.
 
 - Trigun
 - Cowboy Bebop
@@ -17,4 +17,10 @@ Dumping a list of shows I like, and rough idea when I watched it, if I remember 
 - FMA: Brotherhood
 - Dungeon Meshi
 - Scissor Seven
+- Devilman Crybaby
+- Castlevania
+- Vinland Saga
+- Mob Psycho 100
+- Mononoke
+- One Punch Man
 - 
