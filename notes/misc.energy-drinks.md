@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730391561730
+updated: 1730391656052
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -49,3 +49,6 @@ Sugary - 4/10
 
 ![Monster Energy White Pineapple](assets/monster-energy-white-pineapple.png)
 10/10 really good.
+
+![Bucked Up Miami](assets/bucked-up-miami.png)
+7/10
