@@ -2,10 +2,10 @@
 id: lk0x0u1sbahf3dnfvsvr6lk
 title: Face Scanner
 desc: ''
-updated: 1687479407947
+updated: 1687978567962
 created: 1687479207633
 ---
-## [Flutter Face Scanner iOS App](https://github.com/helle253/face-scanner)
+## Flutter Face Scanner iOS App ([Source Code](https://github.com/helle253/face-scanner))
 
 A little proof of concept app I whipped up as a PoC for a friend.
 
