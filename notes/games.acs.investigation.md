@@ -2,21 +2,22 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699366960953
+updated: 1699367089294
 created: 1699366790127
 ---
-## Leads
+### Leads
 
-### Seven Slaughtering Sect
+#### Seven Slaughtering Sect
 
-### Exultant Sect
+#### Exultant Sect
 
-### Purple Cloud Temple
+#### Purple Cloud Temple
 
 - [x] Done i think
 - [ ] withdrawn personalities
 
-### Withdrawn
+##### Withdrawn
+
 Xin Qi
 
 Shentu Xi
@@ -34,6 +35,8 @@ Qin Ji
 
 - [x] Done i think
 - [ ] Withdrawn personalities need to be broken
+
+##### Withdrawn
 
 ### Pit of Doom
 
