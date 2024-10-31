@@ -14,10 +14,9 @@
 
 @breadcrumb-last-item-color: @text-color;
 
-.ant-breadcrumb>span:last-child {
-  background-color: green;
-}
-
 .ant-breadcrumb>span:last-child a {
-  background-color: red;
+  color: @primary-color;
+}
+.ant-breadcrumb>span:last-child a:hover {
+  @text-color-secondary: fade(@primary-color, 65%);
 }
