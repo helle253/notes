@@ -2,23 +2,21 @@
 id: 5wybjr75c9kvmj0cqt49gi0
 title: Session 2
 desc: ''
-updated: 1694135929216
+updated: 1729546403445
 created: 1692491724653
 ---
 
-Session 2 - 
+Session 2 -
 
 Macalester Amalgamated Detective Agency
+
 - Detective Wilkes
 
-
-Timbuktu has burnt down. 
-
+Timbuktu has burnt down.
 
 Metal tubes as thick as a soda can, 2-3 feet long. screw top on the top. paper tag with a code on it - mysterious letters and numbers. (architectural plans?)
 
-
-4 main rooms - 
+4 main rooms -
 
 living room, dining room, study, kitchen.
 

@@ -2,7 +2,7 @@
 id: 1ove0lgxk81uxjpqzl3edim
 title: Session 1
 desc: ''
-updated: 1691115399936
+updated: 1729546441432
 created: 1691109412512
 ---
 
@@ -32,4 +32,3 @@ Dead body in one of the bedrooms
   - Revolver has 3 bullets left (YOINKED)
 
 Weird cultist guy trying to burn the place down.
-> 

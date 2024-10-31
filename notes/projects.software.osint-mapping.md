@@ -2,7 +2,7 @@
 id: nv1e9lajog4b3j1g7bk7bux
 title: OSInt Mapping
 desc: ''
-updated: 1704462125983
+updated: 1729546448721
 created: 1704308910147
 published: false
 ---
@@ -31,7 +31,7 @@ Me
 > 1. ingesting data from disparate sources into text for indexing + ease of use 
 > 2. making datapoint indexable (eg tagging images based on subjects in view)
 > 3. where possible tag location data and render on  a map of some sort
-> 
+>
 > none of these are trivial but they are tractable (i think)
 
 ## Data Sources
