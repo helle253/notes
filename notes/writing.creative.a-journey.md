@@ -2,7 +2,7 @@
 id: bx2l5oi50su5vp1yo582oq7
 title: A Journey
 desc: ''
-updated: 1689881878196
+updated: 1689883791384
 created: 1689881873974
 ---
 two men, a muslim and a jew, set out on foot
