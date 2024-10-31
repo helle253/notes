@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/book-of-hours
+            selfContained: true
+            name: book-of-hours
+        -
             fsPath: .
             selfContained: true
             name: notes
@@ -72,6 +76,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
+    enablePersistentHistory: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -81,15 +86,11 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: https://notes.hellbhoy.net
-    siteFaviconPath: assets/favicon.ico
-    logoPath: assets/logo.png
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    theme: custom
     siteHierarchies:
         - root
     writeStubs: false
@@ -109,3 +110,12 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    siteUrl: https://notes.hellbhoy.net
+    siteFaviconPath: assets/favicon.ico
+    logoPath: assets/logo.png
+    theme: custom
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - book-of-hours
+            - notes
