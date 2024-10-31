@@ -2,7 +2,7 @@
 id: dya6m0bs0m9dn9llieo7cfz
 title: Frank
 desc: ''
-updated: 1730321672166
+updated: 1730321865518
 created: 1730318599354
 ---
 
@@ -24,4 +24,6 @@ frank will always be a california boy. in winter, when the snow flies and the si
 
 i work from home, and most of the day he sits curled up at my feet below my desk.
 
-when we first met frank at the shelter, i had been arguing for months about getting a dog. i grew up with dogs around. at my grandma's farmhouse, for all the first years of my life, there was a shorthair husky named Hannah. She was one of the sweetest dogs ive ever met, and she has been the yardstick by which i judge all other canines. When I was 7, they found a puppy sequested in the boy scout shelter on the edge of town - bear in mind, this was in the middle of a central wisconsin winter. He was only a few months old, and when they found him, his bowl of water had been frozen over. It wasn't neglect, just an instance of youthful indiscretion - someone had adopted this puppy without telling their parents, and their parents refused to take him in. The adopter couldn't find a place to keep him, so they put the puppy in this shelter. he ended up in the humane society shelter in the next town over, and my parents took me to meet him. we, of course, fell in love and took him home. His name was 'Socks', but that wasn't a very fitting name. My dad wanted to name him 'Ike', after Eisenhower.
+when we first met frank at the shelter, i had been arguing for months about getting a dog. i grew up with dogs around. at my grandma's farmhouse, for all the first years of my life, there was a shorthair husky named Hannah. She was one of the sweetest dogs ive ever met, and she has been the yardstick by which i judge all other canines. When I was 7, they found a puppy sequested in the boy scout shelter on the edge of town - bear in mind, this was in the middle of a central wisconsin winter. He was only a few months old, and when they found him, his bowl of water had been frozen over. It wasn't neglect, just an instance of youthful indiscretion - someone had adopted this puppy without telling their parents, and their parents refused to take him in. The adopter couldn't find a place to keep him, so they put the puppy in this shelter. he ended up in the humane society shelter in the next town over, and my parents took me to meet him. we, of course, fell in love and took him home. His name was 'Socks', but that wasn't a very fitting name. My dad wanted to name him 'Ike', after Eisenhower, but my mom refused. We named him 'Sherman'. He looked like a Rhodesian ridgeback, except for the titular ridge. Sherman's mom was an aussie shepherd, and the father was a coon hound. The mom was a farm dog that got knocked up by a neighbnor's dog, a tale as old as time. Anyways, that was my 'first dog' officially, although i feel like Hannah was that in all but name.
+
+frank had spent 3 months in the shelter when we met him. my wife wanted a small dog - she had never had a dog before, her sister adopted a mutt after Sri Lanka was hit in a tsunami in 2010
