@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699302769591
+updated: 1699303098193
 created: 1699302406656
 ---
 
@@ -14,3 +14,5 @@ Xin Na
 Gongyan Panlan
 Lin Siyuan
 Ning Xiao
+Yue Qingchao
+Long Shaqing
