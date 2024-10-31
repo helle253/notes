@@ -2,7 +2,7 @@
 id: 1ove0lgxk81uxjpqzl3edim
 title: Session 1
 desc: ''
-updated: 1691115290966
+updated: 1691115399936
 created: 1691109412512
 ---
 
@@ -27,8 +27,8 @@ Timbuktu:
 Dead body in one of the bedrooms
 
 - Harvey Case
-- Professor of Archaeology, mischatonic University
+- Professor of Archaeology, Miskatonic University
   - Lives in Arkham
-  - Revolver has 3 bullets left
+  - Revolver has 3 bullets left (YOINKED)
 
-Weird cultist guy
+Weird cultist guy trying to burn the place down.
