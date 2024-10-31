@@ -2,7 +2,7 @@
 id: 3wrqfar0uaz0v4pp4e62ta3
 title: Packmule
 desc: ''
-updated: 1687977951186
+updated: 1687978025153
 created: 1687479679590
 ---
 ## [Packmule Boulangerie](https://github.com/helle253/packmule)
@@ -18,3 +18,5 @@ I wanted to add some primitive controls (view-angle, distance, rotation speed, d
 ![](assets/packmule.gif)
 
 The cursor is missing in this snippet, but hovering over one of the cards would pause the rotation!
+
+The rest of the app is fully functional, albeit sparingg
