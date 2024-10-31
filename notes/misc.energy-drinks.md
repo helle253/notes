@@ -2,12 +2,14 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730391986422
+updated: 1730392021950
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
 M150 Can - 4/10 - sugar rush in a can, tastes good but has the caffeine of a cup of tea
+
 M150 Bottle - 5/10 - same as the can, i just like glass bottles more
+
 ![Guarana Original](assets/guarana-original.png)
 Guarana Original - 5/10 tastes like sour apple masking chemicals
 
