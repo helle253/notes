@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730392238922
+updated: 1730392317887
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -11,7 +11,7 @@ M150 Can - 4/10 - Thai. sugar rush in a can, tastes good but has the caffeine of
 M150 Bottle - 5/10 - same as the can, i just like glass bottles more
 
 ![Guarana Original](assets/guarana-original.png)
-Guarana Original - 5/10 tastes like sour apple masking chemicals
+Guarana Original - Serbian. 5/10 tastes like sour apple masking chemicals
 
 ![Alokozay](assets/alokozay.png)
 Alokozay Energy - Dubai. 3/10 tastes like chemicals
@@ -47,7 +47,7 @@ Drank this and forgot time existed. Chemical aftertastes. 7/10
 Sugary - 4/10
 
 ![Golden Eagle](assets/golden-eagle.png)
-7/10 it was alright. It's from Kosovo, which is cool.
+7/10 Kosovan. it was alright.
 
 ![Monster Energy White Pineapple](assets/monster-energy-white-pineapple.png)
 10/10 really good.
