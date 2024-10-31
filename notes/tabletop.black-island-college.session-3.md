@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694137261361
+updated: 1694137950782
 created: 1694133179981
 ---
 
@@ -29,3 +29,5 @@ Weird fella:
   It squats in the center of time. It squats in the jungle of Kled.
 
   In two days time you will see me again
+
+The address smells like an underwater grotto. It's disgusting and awfully taken care of.
