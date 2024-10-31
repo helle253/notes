@@ -1,8 +1,40 @@
+section.side-layout-main {
+  /* Background color of the main section, with the page contents and table of contents. */
+  background: seagreen;
+  }
+  
+  footer.ant-layout-footer {
+  /* Background color of the footer */
+  background: seagreen;
+  }
+  
+  header.ant-layout-header {
+  /* Background color of the header, with logo and search bar. */
+  background: seagreen;
+  }
+  
+  .dendron-tree-menu.ant-menu
+  .ant-menu-submenu.dendron-ant-menu-submenu-selected
+  > .ant-menu-submenu-title {
+  /* Background color for the currently selected item on the sidebar. */
+  background: seagreen;
+  }
+  
+  .site-layout-sidebar.ant-layout,
+  .ant-layout-sider,
+  .ant-menu-submenu,
+  .site-layout-sidebar.ant-layout .ant-menu.ant-menu-inline,
+  .ant-menu-vertical .ant-menu-submenu,
+  .ant-menu-vertical-left .ant-menu-submenu,
+  .ant-menu-vertical-right .ant-menu-submenu,
+  .ant-menu-inline .ant-menu-submenu {
+  /* Background color for the sidebar. */
+  background: seagreen;
+  }
+
 body {
   /** Color for all non-link text. */
   color: antiquewhite;
-  /** Background color. */
-  background: seagreen;
 }
 
 a,
