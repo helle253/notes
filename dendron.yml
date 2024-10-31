@@ -92,7 +92,7 @@ publishing:
         title: Nathan Heller
         description: Notes
         image:
-            url: assets/logo.png
+            url: https://notes.hellbhoy.net/assets/logo.png
             alt: Hellbhoy Notes
     github:
         enableEditLink: true
