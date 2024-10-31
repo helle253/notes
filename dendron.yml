@@ -85,7 +85,10 @@ publishing:
     enableKatex: true
     copyAssets: true
     siteHierarchies:
-        - root
+        - home
+        - misc
+        - books
+        - projects
     writeStubs: false
     siteRootDir: docs
     seo:
