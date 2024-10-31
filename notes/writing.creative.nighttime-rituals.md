@@ -2,9 +2,11 @@
 id: 5ti7u3qrblm1i1i3ih9k685
 title: Nighttime Rituals
 desc: '2:30 AM, Dec. 14 2022'
-updated: 1689884062791
+updated: 1689887328617
 created: 1689881839663
 ---
+
+### 2:30 AM, Dec. 14 2022
 It’s my shift and I cannot sleep  
 my daughter rests peacefully beside me,  
 covered by a warm flannel shirt,  
