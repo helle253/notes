@@ -1,10 +1,6 @@
 {
   "folders": [
     {
-      "path": ".",
-      "name": "root",
-    },
-    {
       "path": "notes",
     }
   ],
