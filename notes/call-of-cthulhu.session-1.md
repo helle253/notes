@@ -2,9 +2,8 @@
 id: 1ove0lgxk81uxjpqzl3edim
 title: Session 1
 desc: ''
-updated: 1691115201935
+updated: 1691115290966
 created: 1691109412512
-published: false
 ---
 
 ## NOTE - need to uh make a backup character
@@ -25,10 +24,11 @@ Timbuktu:
     - Giant fish guy squeezing a man
     - Island like Corcorrseet, lizard people eating people. people lined up walking onto the island.
 
-  Dead body in one of the bedrooms
-  - Harvey Case
-  - Professor of Archaeology, mischatonic University
-    - Lives in Arkham
+Dead body in one of the bedrooms
+
+- Harvey Case
+- Professor of Archaeology, mischatonic University
+  - Lives in Arkham
   - Revolver has 3 bullets left
 
 Weird cultist guy
