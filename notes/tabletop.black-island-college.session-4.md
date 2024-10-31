@@ -2,7 +2,7 @@
 id: 37uxhwk6p0ywdt70ryvt7b3
 title: Session 4
 desc: ''
-updated: 1697160938368
+updated: 1697161045037
 created: 1697156940530
 ---
 Skill check passes:
@@ -34,3 +34,5 @@ The patient one comes to earth? returns?
 anyways, hes dead probably.
 
 took 1 damage
+
+lost 1 sanity
