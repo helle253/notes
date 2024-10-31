@@ -2,7 +2,7 @@
 id: 3wrqfar0uaz0v4pp4e62ta3
 title: Packmule
 desc: ''
-updated: 1687977845039
+updated: 1687977951186
 created: 1687479679590
 ---
 ## [Packmule Boulangerie](https://github.com/helle253/packmule)
@@ -13,8 +13,7 @@ The most interesting part was implementing a client-side js rendering tool for t
 
 CCapture.js allowed me to preserve a constant frame-rate during the recording process. User inputs the .glb, hits record, and the client-side browser spits something nice back out.
 
-I wanted to add some primitive controls (view-angle, distance, rotation speed, duration) but I found working with Javascript from within Rails pretty onerous, and the MVP got the job done.
-
+I wanted to add some primitive controls (view-angle, distance, rotation speed, duration, etc.) but working with Javascript from within Rails is pretty onerous, and the MVP got the job done.
 
 ![](assets/packmule.gif)
 
