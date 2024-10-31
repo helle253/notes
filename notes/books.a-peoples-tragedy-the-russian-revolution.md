@@ -2,10 +2,10 @@
 id: hx23fqpdslr1wmdmmgikle4
 title: A Peoples Tragedy the Russian Revolution
 desc: ''
-updated: 1687439362705
+updated: 1687439444293
 created: 1687439160207
 ---
 
 A notable failure of the provisional government (maybe a common failure mode for centrist govts?) was Karensky's lack of appeal as a leader, especially in comparison to the charismatic Lenin.
 
-The bungled Kornilov affair torpedoed his popularity, also.
+The bungled Kornilov affair torpedoed his popularity, also. Combined with Kerensky's 'no enemies on the left' policy, he left his flank wide open for the Bolsheviks to consolidate power.
