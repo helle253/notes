@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699302691596
+updated: 1699302769591
 created: 1699302406656
 ---
 
@@ -13,3 +13,4 @@ Shanguan Dai
 Xin Na
 Gongyan Panlan
 Lin Siyuan
+Ning Xiao
