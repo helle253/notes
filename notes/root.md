@@ -2,13 +2,13 @@
 id: vpx7sx5zczxxcbwx8woyd2x
 title: Home
 desc: ''
-updated: 1687478864824
+updated: 1687479207753
 created: 1687369600711
 ---
 
 Hey, my name is Nathan.
 
-I'm a programmer at Blue Bottle Coffee.
+I'm a programmer a Blue Bottle Coffee.
 
 My day job involves a lot of Typescript and Ruby. I'm usually either extending our frontend or plumbing the depths of our AWS.
 
