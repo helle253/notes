@@ -8,4 +8,4 @@ created: 1687370495202
 
 # Daily note
 
-Tried Foam, now I'm trying Dendron
+Tried Foam, now I'm trying Dendron. Gotta 
