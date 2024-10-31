@@ -91,6 +91,9 @@ publishing:
     seo:
         title: Nathan Heller
         description: Notes
+        image:
+            url: assets/logo.png
+            alt: Hellbhoy Notes
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
