@@ -2,7 +2,7 @@
 id: 5wybjr75c9kvmj0cqt49gi0
 title: Session 2
 desc: ''
-updated: 1694135407278
+updated: 1694135839068
 created: 1692491724653
 ---
 
@@ -28,7 +28,6 @@ Letter about repeated instances of tresspassing on some parcel of land in the bo
 
 Nautical charts in the tubes. Unclear where they point to, but it says 'Monmouth County yadda yadda yadda'
 
-
 Curios and artifacts in a display case in the study. (Pit of St. Eustace in South America). Ugly little pygmy demons in obscene little stances w/ Mona Lisa smiles.
 
 Diary on the desk that Huber is sitting down to read.
@@ -38,3 +37,5 @@ Diary on the desk that Huber is sitting down to read.
 5 Basque relief stones wrapped in paper, marked 1 2 4 5 6 (3 is clearly missing)
 
 Moorish Harbor 10 miles south of Soquoroset
+
+Down towards the harbor
