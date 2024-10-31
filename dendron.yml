@@ -21,10 +21,9 @@ commands:
     templateHierarchy: template
 workspace:
     vaults:
-        -
-            fsPath: .
-            selfContained: true
-            name: notes
+        - fsPath: .
+          selfContained: true
+          name: notes
     journal:
         dailyDomain: daily
         name: journal
@@ -39,7 +38,7 @@ workspace:
         dateFormat: y.MM.dd
         addBehavior: asOwnDomain
         statusSymbols:
-            '': ' '
+            "": " "
             wip: w
             done: x
             assigned: a
@@ -47,7 +46,7 @@ workspace:
             blocked: b
             delegated: l
             dropped: d
-            pending: 'y'
+            pending: "y"
         taskCompleteStatus:
             - done
             - x
