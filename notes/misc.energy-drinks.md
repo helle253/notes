@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1711047953682
+updated: 1730391432478
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -40,3 +40,6 @@ Drank this and forgot time existed. Chemical aftertastes. 7/10
 
 ![M-Power](assets/m-power.jpeg)
 Sugary - 4/10
+
+![Golden Eagle](assets/golden-eagle.png)
+7/10 it was alright. I think
