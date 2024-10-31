@@ -2,7 +2,7 @@
 id: dya6m0bs0m9dn9llieo7cfz
 title: Frank
 desc: ''
-updated: 1730321394437
+updated: 1730321672166
 created: 1730318599354
 ---
 
@@ -23,3 +23,5 @@ lately, i've had to wake him up for his afternoon constitutional/bathroom break.
 frank will always be a california boy. in winter, when the snow flies and the sidewalks are covered in ice, he hates to go outside. it's not so bad in chicago, where it usually isn't below freezing, but in the few weeks where its *frigid*, his paws get cold. he'll gamely walk a few steps, then lift a paw and limp on bravely, and then lay down. i have to carry him back inside.
 
 i work from home, and most of the day he sits curled up at my feet below my desk.
+
+when we first met frank at the shelter, i had been arguing for months about getting a dog. i grew up with dogs around. at my grandma's farmhouse, for all the first years of my life, there was a shorthair husky named Hannah. She was one of the sweetest dogs ive ever met, and she has been the yardstick by which i judge all other canines. When I was 7, they found a puppy sequested in the boy scout shelter on the edge of town - bear in mind, this was in the middle of a central wisconsin winter. He was only a few months old, and when they found him, his bowl of water had been frozen over. It wasn't neglect, just an instance of youthful indiscretion - someone had adopted this puppy without telling their parents, and their parents refused to take him in. The adopter couldn't find a place to keep him, so they put the puppy in this shelter. he ended up in the humane society shelter in the next town over, and my parents took me to meet him. we, of course, fell in love and took him home. His name was 'Socks', but that wasn't a very fitting name. My dad wanted to name him 'Ike', after Eisenhower.
