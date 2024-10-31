@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730392480963
+updated: 1730394412469
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -38,7 +38,7 @@ Bing Black - 10/10 - surprised by this one, Blackberries are underrated.
 G Fuel Sonic - 7.5/10 - Knockoff peach Monster
 
 ![Prime](assets/prime.jpg)
-Prime -  9/10 = Tastes like those popsicles. Banned in Canada.
+Prime -  9/10 - Tastes like those popsicles. Banned in Canada.
 
 ![Wired 344 Sugar Free](assets/wired-344-sugar-free.jpg)
 Wired 344 Sugar Free - 7/10 - Drank this and forgot time existed. Chemical aftertastes.
