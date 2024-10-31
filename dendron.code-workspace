@@ -16,7 +16,7 @@
         "gitdoc.enabled": true,
         "pasteImage.path": "${projectRoot}/notes/assets",
         "pasteImage.basePath": "${projectRoot}/notes",
-        "pasteImage.prefix": "/",
+        "pasteImage.prefix": "/"
     },
     "extensions": {
         "recommendations": [
