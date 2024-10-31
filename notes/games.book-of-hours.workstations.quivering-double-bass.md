@@ -2,6 +2,11 @@
 id: sknu4q8fhdw51renpl4sobd
 title: Quivering Double Bass
 desc: ''
-updated: 1694643814184
+updated: 1694644248813
 created: 1694643814184
 ---
+
+### Principles
+
+[[games.book-of-hours.aspects.principles.grail]]  
+[[games.book-of-hours.aspects.principles.sky]]
