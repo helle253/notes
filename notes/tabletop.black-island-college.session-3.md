@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694134020131
+updated: 1694134207220
 created: 1694133179981
 ---
 
@@ -11,3 +11,7 @@ created: 1694133179981
   - you can NOT push combat rolls, but you can push other rolls.
 
 Taking 20G Shotgun and 4 extra shells
+
+Maze Oyster company is the major employer in town if Moorish Harbor.
+
+This place is totally empty, eerily so considering.
