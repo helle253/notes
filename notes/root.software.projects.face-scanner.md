@@ -5,7 +5,7 @@ desc: ''
 updated: 1687479407947
 created: 1687479207633
 ---
-# [Flutter Face Scanner iOS App](https://github.com/helle253/face-scanner)
+## [Flutter Face Scanner iOS App](https://github.com/helle253/face-scanner)
 
 A little proof of concept app I whipped up as a PoC for a friend.
 
