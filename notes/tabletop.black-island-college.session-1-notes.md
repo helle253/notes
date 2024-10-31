@@ -32,3 +32,4 @@ Dead body in one of the bedrooms
   - Revolver has 3 bullets left (YOINKED)
 
 Weird cultist guy trying to burn the place down.
+> 
