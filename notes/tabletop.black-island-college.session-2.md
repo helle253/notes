@@ -2,7 +2,7 @@
 id: 5wybjr75c9kvmj0cqt49gi0
 title: Session 2
 desc: ''
-updated: 1692491724653
+updated: 1694135407278
 created: 1692491724653
 ---
 
@@ -37,4 +37,4 @@ Diary on the desk that Huber is sitting down to read.
 
 5 Basque relief stones wrapped in paper, marked 1 2 4 5 6 (3 is clearly missing)
 
-Moorish Harbor 10 miles south of Moorish harbor
+Moorish Harbor 10 miles south of Soquoroset
