@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730392440430
+updated: 1730392480963
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -44,7 +44,7 @@ Prime -  9/10 = Tastes like those popsicles. Banned in Canada.
 Wired 344 Sugar Free - 7/10 - Drank this and forgot time existed. Chemical aftertastes.
 
 ![M-Power](assets/m-power.jpeg)
-M-Power - 4/10 - Sugary
+M-Power - Polish - 4/10 - Sugary
 
 ![Golden Eagle](assets/golden-eagle.png)
 Golden Eagle - Kosovan - 7/10 - it was alright.
