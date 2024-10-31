@@ -13,8 +13,6 @@
 // Background color for current note index in the table of contents
 @menu-item-active-bg: fade(@primary-color, 50%);
 
-@link-hover-color: green;
-
 .ant-breadcrumb>span:last-child a {
   color: @primary-color;
 }
@@ -22,3 +20,6 @@
   color: fade(@primary-color, 65%);
 }
 
+a:not([class]), a:not([class]):hover {
+  background-image: linear-gradient(red 0%, green 100%);
+}
