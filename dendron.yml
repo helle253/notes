@@ -89,6 +89,7 @@ publishing:
         - misc
         - books
         - projects
+        - writing
     writeStubs: false
     siteRootDir: docs
     seo:
