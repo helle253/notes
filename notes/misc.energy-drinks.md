@@ -2,13 +2,13 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730392369278
+updated: 1730392440430
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
-M150 Can - 4/10 - Thai. sugar rush in a can, tastes good but has the caffeine of a cup of tea
+M150 Can - Thai - 4/10 - sugar rush in a can, tastes good but has the caffeine of a cup of tea
 
-M150 Bottle - 5/10 - same as the can, i just like glass bottles more
+M150 Bottle - Thai - 5/10 - same as the can, i just like glass bottles more
 
 ![Guarana Original](assets/guarana-original.png)
 Guarana Original - Serbian - 5/10 tastes like sour apple masking chemicals
@@ -38,19 +38,19 @@ Bing Black - 10/10 - surprised by this one, Blackberries are underrated.
 G Fuel Sonic - 7.5/10 - Knockoff peach Monster
 
 ![Prime](assets/prime.jpg)
-Tastes like those popsicles. Banned in Canada. 9/10
+Prime -  9/10 = Tastes like those popsicles. Banned in Canada.
 
 ![Wired 344 Sugar Free](assets/wired-344-sugar-free.jpg)
-Drank this and forgot time existed. Chemical aftertastes. 7/10
+Wired 344 Sugar Free - 7/10 - Drank this and forgot time existed. Chemical aftertastes.
 
 ![M-Power](assets/m-power.jpeg)
-Sugary - 4/10
+M-Power - 4/10 - Sugary
 
 ![Golden Eagle](assets/golden-eagle.png)
-7/10 Kosovan. it was alright.
+Golden Eagle - Kosovan - 7/10 - it was alright.
 
 ![Monster Energy White Pineapple](assets/monster-energy-white-pineapple.png)
-10/10 really good.
+Monster Energy White Pineapple - 10/10 - really good.
 
 ![Bucked Up Miami](assets/bucked-up-miami.png)
-7/10
+Bucked Up Miami - 7/10
