@@ -88,7 +88,7 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    theme: dark
+    theme: custom
     siteHierarchies:
         - root
     writeStubs: false
