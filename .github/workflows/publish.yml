@@ -39,6 +39,9 @@ jobs:
         # Generate a new cache whenever packages or source files change.
         key: ${{ runner.os }}-nextjs-${{ hashFiles('.next/yarn.lock', '.next/package-lock.json') }}-${{ hashFiles('.next/**.[jt]s', '.next/**.[jt]sx') }}
 
+    - name: Convert less to custom css
+      run: npx @emeks/antd-custom-theme-generator --theme dark style/theme.less custom.css
+
     - name: Export notes
       run: yarn dendron publish export --target github --yes
 
