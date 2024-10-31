@@ -1,6 +1,6 @@
 ---
 id: jm9rzhy27qtismmtxxebpji
-title: '2023-06-29'
+title: Running Journal
 desc: ''
 updated: 1688094818165
 created: 1688094720682
