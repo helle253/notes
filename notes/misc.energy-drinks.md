@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730392317887
+updated: 1730392369278
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -11,16 +11,16 @@ M150 Can - 4/10 - Thai. sugar rush in a can, tastes good but has the caffeine of
 M150 Bottle - 5/10 - same as the can, i just like glass bottles more
 
 ![Guarana Original](assets/guarana-original.png)
-Guarana Original - Serbian. 5/10 tastes like sour apple masking chemicals
+Guarana Original - Serbian - 5/10 tastes like sour apple masking chemicals
 
 ![Alokozay](assets/alokozay.png)
-Alokozay Energy - Dubai. 3/10 tastes like chemicals
+Alokozay Energy - Dubai - 3/10 tastes like chemicals
 
 ![Ginseng Energy](assets/ginseng-energy.png)
-Ginseng Energy - 7/10 Korean. Tasted like pear juice.
+Ginseng Energy - Korean - 7/10 - Tasted like pear juice.
 
 ![Carabao Energy Drink](assets/carabao.png)
-Carabao - 4/10 - Thai. Sugar rush in a can, I think its the exact same stuff as the M150 in a different can.
+Carabao - Thai - 4/10 - Sugar rush in a can, I think its the exact same stuff as the M150 in a different can.
 
 ![Bing Blu](assets/bing-blu.png)
 Bing Blu - 10/10 - No notes, love blue raspberry.
@@ -35,7 +35,7 @@ Bing Cherry - 7/10 - i dont like cherries all that mucch :(
 Bing Black - 10/10 - surprised by this one, Blackberries are underrated.
 
 ![G Fuel Sonic](assets/gfuel-sonic.jpg)
-Knockoff peach Monster. 7.5/10
+G Fuel Sonic - 7.5/10 - Knockoff peach Monster
 
 ![Prime](assets/prime.jpg)
 Tastes like those popsicles. Banned in Canada. 9/10
