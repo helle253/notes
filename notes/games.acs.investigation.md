@@ -2,7 +2,7 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699368458743
+updated: 1699370589518
 created: 1699366790127
 ---
 ### Leads
@@ -11,15 +11,9 @@ created: 1699366790127
 
 #### Exultant Sect
 
-- [ ] TODO
+- [ ] FINISH
 
-Opened:
-
-Gang Pengliang!
-
-Withdrawn:
-
-
+Qing Yulan
 
 #### Purple Cloud Temple
 
