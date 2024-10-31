@@ -2,17 +2,15 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694629977708
+updated: 1694630032641
 created: 1694629178802
 ---
 ![Ereb](assets/ereb-icon.png)
 
 ## Aspects
-Major [[Grail]]
+Major [[games.book-of-hours.soul-aspects.grail]]
 
 Minor [[games.book-of-hours.soul-aspects.edge]]
-
-## Tree of Wisdom
 
 ## Workstations
 
