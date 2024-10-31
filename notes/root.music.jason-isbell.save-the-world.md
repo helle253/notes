@@ -18,3 +18,8 @@ Anyways, a few things are meeting a confluence in some abstract sense:
 - Castle Doctrine
 
 I don't think these are by any means tightly linked, but I don't think they're unlinked either. If I were cynical enough about political motivations, I'd argue that these events benefit the right in undermining public schools as an institution, by stoking fears that these are unsafe places. 'Thoughts and prayers' and no material improvements to the safety of schoolchildren.
+
+Parents are (reasonably!) not rational about the safety of their children. These things undermine one of the very basic premises of public schools - that they are safe environments.
+
+
+Anyways, I think that fear is reasonable. 
