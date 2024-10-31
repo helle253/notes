@@ -2,7 +2,7 @@
 id: ebbcmkoia2heqmyan901n78
 title: Anime
 desc: ''
-updated: 1729625026579
+updated: 1730314289454
 created: 1729624701021
 ---
 
@@ -26,3 +26,4 @@ Dumping a list of anime (and other, similar animated flicks) I like.
 - Baccano
 - Hunter X Hunter
 - Dorohedoro
+- Ergo Proxy
