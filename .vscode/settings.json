@@ -2,6 +2,7 @@
   "gitdoc.enabled": true,
   "pasteImage.showFilePathConfirmInputBox": true,
   "pasteImage.path": "${currentFileDir}/assets",
+  "pasteImage.defaultName": "${currentFileNameWithoutExt}",
   "pasteImage.prefix": "/",
   "files.autoSave": "onFocusChange",
   "editor.snippetSuggestions": "inline",
