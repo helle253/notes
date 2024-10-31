@@ -2,20 +2,20 @@
 id: vii5va7yealtbjo2vx6c5hl
 title: Principles
 desc: ''
-updated: 1694643396495
+updated: 1694656699277
 created: 1694628862058
 ---
 ## Index
-- [[Edge|games.book-of-hours.aspects.principles.edge]]
-- [[Grail|games.book-of-hours.aspects.principles.grail]]
-- [[Moth|games.book-of-hours.aspects.principles.moth]]
-- [[Heart|games.book-of-hours.aspects.principles.heart]]
-- [[Winter|games.book-of-hours.aspects.principles.winter]]
-- [[Forge|games.book-of-hours.aspects.principles.forge]]
-- [[Knock|games.book-of-hours.aspects.principles.knock]]
-- [[Lantern|games.book-of-hours.aspects.principles.lantern]]
-- [[Moon|games.book-of-hours.aspects.principles.moon]]
-- [[Nectar|games.book-of-hours.aspects.principles.nectar]]
-- [[Rose|games.book-of-hours.aspects.principles.rose]]
-- [[Scale|games.book-of-hours.aspects.principles.scale]]
-- [[Sky|games.book-of-hours.aspects.principles.sky]]
+- ![Edge](/assets/icon-edge.png){max-width: 24px} [[Edge|games.book-of-hours.aspects.principles.edge]]
+- ![Grail](/assets/icon-grail.png){max-width: 24px} [[Grail|games.book-of-hours.aspects.principles.grail]]
+- ![Moth](/assets/icon-moth.png){max-width: 24px} [[Moth|games.book-of-hours.aspects.principles.moth]]
+- ![Heart](/assets/icon-heart.png){max-width: 24px}  [[Heart|games.book-of-hours.aspects.principles.heart]]
+- ![Winter](/assets/icon-winter.png){max-width: 24px} [[Winter|games.book-of-hours.aspects.principles.winter]]
+- ![Forge](/assets/icon-forge.png){max-width: 24px} [[Forge|games.book-of-hours.aspects.principles.forge]]
+- ![Knock](/assets/icon-knock.png){max-width: 24px} [[Knock|games.book-of-hours.aspects.principles.knock]]
+- ![Lantern](/assets/icon-Lantern.png){max-width: 24px} [[Lantern|games.book-of-hours.aspects.principles.lantern]]
+- ![Moon](/assets/icon-moon.png){max-width: 24px} [[Moon|games.book-of-hours.aspects.principles.moon]]
+- ![Nectar](/assets/icon-nectar.png){max-width: 24px} [[Nectar|games.book-of-hours.aspects.principles.nectar]]
+- ![Rose](/assets/icon-rose.png){max-width: 24px} [[Rose|games.book-of-hours.aspects.principles.rose]]
+- ![Scale](/assets/icon-scale.png){max-width: 24px} [[Scale|games.book-of-hours.aspects.principles.scale]]
+- ![Sky](/assets/icon-sky.png){max-width: 24px} [[Sky|games.book-of-hours.aspects.principles.sky]]
