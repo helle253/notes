@@ -2,6 +2,6 @@ node_modules
 .dendron.*
 build
 seeds
-.next
+.next/
 pods/service-connections
 custom.css
