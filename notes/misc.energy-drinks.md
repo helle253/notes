@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1688907440045
+updated: 1689646633515
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -16,3 +16,15 @@ Alokozay Energy - 3/10 tastes like chemicals
 Ginseng Energy - 7/10 i dont know if this had caffeine, but it tasted pretty good. I would drink this. Tasted like pear juice.
 ![Carabao Energy Drink](assets/carabao.png)
 Carabao - 4/10 - Sugar rush in a can, I think its the exact same stuff as the M150 in a different can.
+
+![Bing Blu](assets/bing-blu.png)
+Bing Blu - 10/10 - No notes, love blue raspberry.
+
+![Bing Crisp](assets/bing-crisp.png)
+Bing Crisp - 9/10 - Tastes like a sour apple ('crisp' is accurate)
+
+![Bing Cherry](assets/bing-cherry.png)
+Bing Cherry - 7/10 - i dont like cherries all that mucch :(
+
+![Bing Black](assets/bing-black.png)
+Bing Black - 10/10 - surprised by this one, Blackberries are underrated.
