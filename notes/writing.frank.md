@@ -2,7 +2,7 @@
 id: dya6m0bs0m9dn9llieo7cfz
 title: Frank
 desc: ''
-updated: 1730321186251
+updated: 1730321394437
 created: 1730318599354
 ---
 
@@ -14,9 +14,12 @@ we have hardwood floors, and sometimes he has trouble getting up, because of his
 
 he doesn't like other dogs, and i think a lot about how stressful his time at the shelter must have been. the shelter housed a lot of dogs, and he was isolated into his own area, but they were still right on the other side of the divider, barking and making noise. he's on a lot of medications for his arthritis, but when we got him he was also on a LOT of trazadone, an anti-anxiety medication. he also had, at the time, severe separation anxiety. he's gotten a lot better, but at our previous apartments, if we left him for more than 10 or 15 minutes, he would all but lose his mind. in oakland, during covid, he chewed up the trim on the front door. after that, we rearranged a lot of our schedule to ensure he was never alone. funnily enough, he is fine in the car - when we first got him, he would spend hours with his head out the window. his arthritis prevents that now, but we leave the windows down so he can crane his neck up and catch the breeze. so we learned to do lots of road trips, and go out to eat in the evenings, so the car wouldn't bake in the sun. whenever we got back to the car, even now in his advanced age, he somehow manages to climb into the driver's seat, usually curled up but sometimes sitting at attention, waiting for our return. when we moved to chicago, we tried again and left him in one of the bedrooms, so if he chewed stuff up, it would just be in that one room. he tore the closet door off the hinges, and it got wedged between the door and the dresser. i only barely managed to squeeze in and move it. again, we stopped doing that for a while. i realized, after that, it was the feeling of being locked *in a room* that triggered him. i leave the doors open where we live now. he's never chewed anything up here.
 
-still, at night, if my wife and i shut the door to our bedroom, i can hear him pacing up and down the hallway, looking for us. 
+still, at night, if my wife and i shut the door to our bedroom, i can hear him pacing up and down the hallway, looking for us.
 
 he never barks or growls, except at other dogs. ive learned how he talks though. he needs help getting up on the couch - he used to be able to clamber up on his own, but not anymore. he walks up to the couch, pointing at it, and peers at me sideways. as soon as i wrap my arms around his chest, he lifts his front paws up and hoists himself up with my assistance.
 
 lately, i've had to wake him up for his afternoon constitutional/bathroom break. if he could, he'd sleep till dinner time. he used to be able to play, but age has taken that from him too. everyone who met him 2-3 years ago would be shocked at how methodically he would tear apart his ropes. it was surgical precision, really. he also once loved to play tug of war. at first, he would endlessly tug and tug until he was tired, but still hold fast onto the rope, insisting you to try to take it from him. when he stopped trying to wrest it from you, he'd still stubbornly hold fast while you tried to pull it from his jaws. he can't do that anymore, he has no balance. still, sometimes, usually when company is over, he will search for one of his ropes, pull it out of the basket, and present it to someone, requesting a game. he'll still try and play, but if you tug, he just falls over. i always get the sense in that moment that he's a little dejected or embarrased, like he knows he can't play like he used to.
 
+frank will always be a california boy. in winter, when the snow flies and the sidewalks are covered in ice, he hates to go outside. it's not so bad in chicago, where it usually isn't below freezing, but in the few weeks where its *frigid*, his paws get cold. he'll gamely walk a few steps, then lift a paw and limp on bravely, and then lay down. i have to carry him back inside.
+
+i work from home, and most of the day he sits curled up at my feet below my desk.
