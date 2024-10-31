@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699303166435
+updated: 1699303261510
 created: 1699302406656
 ---
 
@@ -17,3 +17,4 @@ Ning Xiao
 Yue Qingchao
 Long Shaqing
 Yin Dongyun
+Gu Wan
