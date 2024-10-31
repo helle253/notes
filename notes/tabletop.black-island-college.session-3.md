@@ -2,7 +2,7 @@
 id: pexhr5c06axef16euy21qi4
 title: Session 3
 desc: ''
-updated: 1694138466692
+updated: 1694138534989
 created: 1694133179981
 ---
 
@@ -39,3 +39,5 @@ Extremely old man in the kitchen, he's what cackled when i threw some shit in th
 Blind, immobile old guy wearing a faux catholic monk robe and a necklace with several pendants which appear to be mummified human body parts.
 
 Dondoza?
+
+Kitchen is papered
