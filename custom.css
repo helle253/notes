@@ -1,5 +1,18 @@
-.h1 {
-  color: blue;
-  background-color: red;
+body {
+  /** Color for all non-link text. */
+  color: antiquewhite;
+  /** Background color. */
+  background: seagreen;
 }
 
+a,
+a:hover,
+a:active {
+/** Color for links, except ones that have been already visited. */
+color: aqua;
+}
+
+a:visited {
+/* Color for links that have been already visited. */
+color: #00aaaa;
+}
