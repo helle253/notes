@@ -2,7 +2,7 @@
 id: 37uxhwk6p0ywdt70ryvt7b3
 title: Session 4
 desc: ''
-updated: 1697160361640
+updated: 1697160469980
 created: 1697156940530
 ---
 Skill check passes:
@@ -25,6 +25,11 @@ Checking the bookshelf, important book shows up:
 the tablets were not what they seemed to be (duh)
 they turned him into a weird stinky water guy
 
-Moats of Yib - 
+Moats of Yib.
 
-That which squats in the jungle of Kleb . The tablets point this way.
+That which squats in the jungle of Kled . The tablets point this way.
+
+The patient one comes to earth? returns?
+
+anyways, hes dead.
+
