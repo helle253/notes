@@ -7,5 +7,3 @@ This is where I keep my notes.
 
 [You should go here instead](https://helle253.github.io/notes/)
 
-## Style
-Dendron uses Ant
