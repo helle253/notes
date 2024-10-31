@@ -2,7 +2,6 @@
 id: zfhil7kdhk3339zdmbc3rvj
 title: Call of Cthulhu
 desc: ''
-published: false
-updated: 1691115234148
+updated: 1691115536120
 created: 1691115223279
 ---
