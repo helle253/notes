@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1706043517316
+updated: 1711047953682
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -38,5 +38,5 @@ Tastes like those popsicles. Banned in Canada. 9/10
 ![Wired 344 Sugar Free](assets/wired-344-sugar-free.jpg)
 Drank this and forgot time existed. Chemical aftertastes. 7/10
 
-![M-Power](assets/m-power.jpg)
+![M-Power](assets/m-power.jpeg)
 Sugary - 4/10
