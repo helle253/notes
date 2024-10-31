@@ -2,7 +2,7 @@
 id: ok2sp5mm61wi8sehjsas6a9
 title: Investigation
 desc: ''
-updated: 1699367313388
+updated: 1699367338017
 created: 1699366790127
 ---
 ### Leads
@@ -10,6 +10,8 @@ created: 1699366790127
 #### Seven Slaughtering Sect
 
 #### Exultant Sect
+
+- [ ] TODO
 
 #### Purple Cloud Temple
 
