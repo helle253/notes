@@ -23,10 +23,6 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: dependencies/localhost/book-of-hours
-            selfContained: true
-            name: book-of-hours
-        -
             fsPath: .
             selfContained: true
             name: notes
@@ -76,7 +72,6 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
-    enablePersistentHistory: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -117,5 +112,4 @@ publishing:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - book-of-hours
             - notes
