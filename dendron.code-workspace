@@ -19,6 +19,7 @@
         "files.autoSave": "onFocusChange",
         "gitdoc.enabled": true,
         "pasteImage.path": "${currentFileDir}/notes/assets",
+        "pasteImage.defaultName": "${currentFileName}",
         "pasteImage.prefix": "/",
     },
     "extensions": {
