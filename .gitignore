@@ -2,5 +2,3 @@ node_modules/
 .dendron.*
 .next/
 custom.css
-
-dependencies/localhost/book-of-hours
