@@ -2,7 +2,7 @@
 id: 5ti7u3qrblm1i1i3ih9k685
 title: Nighttime Rituals
 desc: '2:30 AM, Dec. 14 2022'
-updated: 1689882000533
+updated: 1689882687778
 created: 1689881839663
 ---
 It’s my shift and I cannot sleep
@@ -10,7 +10,6 @@ my daughter rests peacefully beside me,
 covered by a warm flannel shirt,
 moments ago wrapped round us both,
 the rest of the world must wait
-
 
 We take turns
 At 7, mom puts her to bed.
