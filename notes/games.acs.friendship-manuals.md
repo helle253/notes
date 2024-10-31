@@ -2,7 +2,7 @@
 id: wov6k1psj3ouwkjfqeyyl3x
 title: Friendship Manuals
 desc: ''
-updated: 1699327533642
+updated: 1699366779977
 created: 1699302406656
 ---
 
@@ -32,3 +32,5 @@ Yong Jianluo
 ### Mt. Hundred Insects
 
 Shang Yi
+
+
