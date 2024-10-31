@@ -2,7 +2,7 @@
 id: u6aemnhey7lsecwv9c5jw1i
 title: Ereb
 desc: ''
-updated: 1694629450339
+updated: 1694629510292
 created: 1694629178802
 ---
 ![Ereb](assets/ereb-icon.png)
@@ -15,6 +15,8 @@ Minor [[games.book-of-hours.soul-aspects.edge]]
 ## Workstations
 
 
-[[Barber's Chair]] -- [[Preservation]]
-[[Nocturnary]] -- [[Skolekosophy]]
-[[Practice Garden Dummy]] -- 
+Location | Tree of Wisdom |
+---------|----------|
+|[[Barber's Chair]] | [[Preservation]]|
+|[[Nocturnary]] | [[Skolekosophy]] |
+|[[Practice Garden Dummy]] | [[Illumination]] |
