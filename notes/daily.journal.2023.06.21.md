@@ -1,53 +1,7 @@
 ---
-id: mi9jd005jdb5xkdu5rd4ok7
-title: '2023-06-21'
+id: 95p4no8ujk4k59aui4tyerp
+title: Daily Journal Template
 desc: ''
-updated: 1687370522360
-created: 1687370495263
-traitIds:
-  - journalNote
+updated: 1687370582515
+created: 1687370495202
 ---
-This template was applied using the daily journal schema. Edit the [[templates.daily]] note to change this template.
-To create your own schemas to auto-apply templates when they match a hierarchy, follow the [schema tutorial](https://blog.dendron.so/notes/P1DL2uXHpKUCa7hLiFbFA/) to get started.
-
-<!--
-Based on the journaling method created by Intelligent Change:
-- [Intelligent Change: Our Story](https://www.intelligentchange.com/pages/our-story)
-- [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
--->
-
-## Morning
-
-<!-- Fill out this section after waking up -->
-
-### Gratitude
-
-I am grateful for:
-
-1. Noor
-2. Naf
-3. Frank
-
-### What would make today great?
-
-1. 
-2.
-3.
-
-### Daily affirmations
-
-I am...
-
-## Evening
-
-<!-- Fill out this section before going to sleep, reflecting on your day -->
-
-### Amazing things that happened today
-
-1.
-2.
-3.
-
-### How could I have made today even better?
-
-I could have made today better by
