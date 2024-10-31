@@ -2,7 +2,7 @@
 id: dya6m0bs0m9dn9llieo7cfz
 title: Frank
 desc: ''
-updated: 1730322779095
+updated: 1730322858389
 created: 1730318599354
 ---
 
@@ -30,4 +30,6 @@ frank had spent 3 months in the shelter when we met him. my wife wanted a small 
 
 we went to spend some time with moneypenny after meeting frank in his vestibule. moneypenny was sweet, but she was sick that day, and it felt like she was really on her last legs. i hope the end of her life was peaceful, but this isn't her story. we took frank on a walk around the block. he doesn't do this anymore, but for the first few years, whenever we took him on a walk, he would carry his rope with him. whenever he saw a dog, he would chomp on it like a horse chomping a bit. it was like a security blanket, and he never left home without it, until he did, when the ropes started to get too tough for his teeth. we left the shelter that day without a dog, and a decision to make. my wife didn't admit it then, but her heart was set on frank - she was just afraid because he was 'big'. she left for a trip a few weeks later, and told me that when she came back, either frank was at our house or not, which was as close as she could get to saying 'yes' without saying yes.
 
-of course, i went and picked him up. the rest is history, mostly.
+of course, i went and picked him up. the rest is history, mostly. he's a good boy, and im grateful for the time i've had with him, and whatever time ive still got.
+
+ill carry him up and down the stairs as long as im able, and as long as he's willing. i think thats what love looks like.
