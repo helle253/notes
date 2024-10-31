@@ -2,21 +2,19 @@
 id: t37a60mjpfruaq9mpgta73f
 title: Chor
 desc: ''
-updated: 1694643591106
+updated: 1694643628617
 created: 1694643549262
 ---
 ![](/assets/icon-chor.png)
 
 ## Aspects
 
-Major 
+Major [[games.book-of-hours.aspects.principles.heart]]
 
-Minor 
+Minor [[games.book-of-hours.aspects.principles.grail]]
 
 ## Workstations
 
-Location | Tree of Wisdom |
----------|----------|
-|||
+
 
 What skills offer Chor in the tree of wisdom?
