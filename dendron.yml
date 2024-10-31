@@ -81,6 +81,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    siteUrl: https://helle253.github.io/notes/
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
