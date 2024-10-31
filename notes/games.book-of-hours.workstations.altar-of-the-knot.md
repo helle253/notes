@@ -1,8 +1,8 @@
 ---
 id: stfta36vfq81ujl6uq7avj1
-title: Altar of the Kn
+title: Altar of the Knot
 desc: ''
-updated: 1694655681810
+updated: 1694656270787
 created: 1694644106141
 ---
 
