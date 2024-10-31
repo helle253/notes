@@ -16,12 +16,12 @@
 // Stuff below here is kinda brittle, because if they ever use a different ant version, I 
 // might end up with broken css. We'll see!
 
-a {
-  opacity: 100%;
+.site-title {
+  color: @primary-color
 }
 
-a:hover {
-  opacity: 85%;
+.site-title:hover {
+  color: fade(@primary-color, 85%)
 }
 
 // All breadcrumbs should have an underline the same color as their text (@text-color-secondary
@@ -31,8 +31,10 @@ a:hover {
 
 // The last breadcrumb uses the primary color instead of text-color-secondary
 .ant-breadcrumb>span:last-child a {
+  color: @primary-color;
   background-image: linear-gradient(@primary-color 0%, @primary-color 100%);
 }
 .ant-breadcrumb>span:last-child a:hover {
+  color: fade(@primary-color, 85%);
   background-image: none;
 }
