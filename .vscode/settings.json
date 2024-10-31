@@ -1,4 +1,4 @@
 {
   "gitdoc.enabled": true,
-  "markdown.styles": ["tag-style.css"]
+  "markdown.styles": [".vscode/css/tag-style.css"]
 }
