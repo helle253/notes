@@ -2,7 +2,7 @@
 id: 8edpyy0gmotldz92prcu1wv
 title: Tridesma Hiera
 desc: ''
-updated: 1694743316729
+updated: 1694830510005
 created: 1694743294595
 ---
 
@@ -12,7 +12,9 @@ Minor [[book-of-hours.aspects.principles.grail]]
 
 ### Tree of Wisdom
 
-[[book-of-hours.tree-of-wisdom.bosk]], [[book-of-hours.tree-of-wisdom.preservation]]
+- [ ] [[book-of-hours.tree-of-wisdom.bosk]] - [[book-of-hours.elements-of-the-soul.ereb]]
+
+- [x] [[book-of-hours.tree-of-wisdom.preservation]] - health
 
 ### Notes
 
