@@ -2,12 +2,12 @@
 id: jm9rzhy27qtismmtxxebpji
 title: Running Journal
 desc: ''
-updated: 1732482132061
+updated: 1732487529929
 created: 1688094720682
 published: false
 ---
 
-|Date|Distance|Time|Notes|
+|Date|Distance|Time|Pace|
 |-|-|-|-|
 | 2023-06-29 | 02.00mi | 20:20 ||
 | 2023-07-03 | 03.50mi | 31:03 ||
