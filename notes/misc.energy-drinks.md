@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1730394412469
+updated: 1733160599558
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -54,3 +54,4 @@ Monster Energy White Pineapple - 10/10 - really good.
 
 ![Bucked Up Miami](assets/bucked-up-miami.png)
 Bucked Up Miami - 7/10
+
