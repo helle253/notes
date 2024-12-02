@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1733160785885
+updated: 1733160787401
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -63,4 +63,3 @@ Oreo Coke - 7/10 - tastes like a coke?
 
 ![Iced Vanilla Berry](assets/iced-vanilla-berry.jpg)
 Iced Vanilla Berry - 7.5/10 - its alright.
-
