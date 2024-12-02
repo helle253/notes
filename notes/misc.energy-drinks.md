@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1733160599558
+updated: 1733160785885
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -54,4 +54,13 @@ Monster Energy White Pineapple - 10/10 - really good.
 
 ![Bucked Up Miami](assets/bucked-up-miami.png)
 Bucked Up Miami - 7/10
+
+![Aussie Lemonade](assets/aussie-lemonade.jpg)
+Aussie Lemonade - 7/10 - tastes like a Mello Yello or something.
+
+![Oreo coke](assets/oreo-coke.jpg)
+Oreo Coke - 7/10 - tastes like a coke?
+
+![Iced Vanilla Berry](assets/iced-vanilla-berry.jpg)
+Iced Vanilla Berry - 7.5/10 - its alright.
 
