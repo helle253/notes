@@ -2,7 +2,7 @@
 id: dya6m0bs0m9dn9llieo7cfz
 title: Frank
 desc: ''
-updated: 1730322858389
+updated: 1734270442841
 created: 1730318599354
 ---
 
@@ -33,3 +33,5 @@ we went to spend some time with moneypenny after meeting frank in his vestibule.
 of course, i went and picked him up. the rest is history, mostly. he's a good boy, and im grateful for the time i've had with him, and whatever time ive still got.
 
 ill carry him up and down the stairs as long as im able, and as long as he's willing. i think thats what love looks like.
+
+2024-12-15: im glad i got one more walk with him today.
