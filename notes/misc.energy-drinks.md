@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1733779175623
+updated: 1739480385561
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -66,3 +66,9 @@ Iced Vanilla Berry - 7.5/10 - its alright.
 
 ![Girl Scouts Thin Mints](assets/girl-scouts-thin-mints.jpg)
 Girl Scouts Thin Mints - 5/10 - tastes like a thin mint (i dont like thin mints).
+
+![Red Bull Kratingdaeng](assets/thai-red-bull.jpg)
+Way too sweet - Thailand - 6/10
+
+![Red Bull Plus](assets/red-bull-plus.jpg)
+sweet but not overly cloying - Malaysia - 9/10
