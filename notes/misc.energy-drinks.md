@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1739480385561
+updated: 1740407932252
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -72,3 +72,6 @@ Way too sweet - Thailand - 6/10
 
 ![Red Bull Plus](assets/red-bull-plus.jpg)
 sweet but not overly cloying - Malaysia - 9/10
+
+![Ghost 'Merica Pop](assets/ghost-merica-pop.jpg)
+Ghost 'Merica Pop - 7/10 - Too much cherry in the flavor profile.
