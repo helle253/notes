@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1740407932252
+updated: 1742415182756
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -75,3 +75,6 @@ sweet but not overly cloying - Malaysia - 9/10
 
 ![Ghost 'Merica Pop](assets/ghost-merica-pop.jpg)
 Ghost 'Merica Pop - 7/10 - Too much cherry in the flavor profile.
+
+![Irish Moss](assets/irish-moss.png)
+Irish Moss - Jamaica - 9/10 - tastes like wet peanut butter.
