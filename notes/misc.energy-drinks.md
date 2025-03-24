@@ -2,7 +2,7 @@
 id: kicm5w8v1cn7zam0wi4t0fr
 title: Energy Drinks
 desc: ''
-updated: 1742415182756
+updated: 1742844667868
 created: 1688906787037
 ---
 ![M-150](assets/m-150.png)
@@ -78,3 +78,24 @@ Ghost 'Merica Pop - 7/10 - Too much cherry in the flavor profile.
 
 ![Irish Moss](assets/irish-moss.png)
 Irish Moss - Jamaica - 9/10 - tastes like wet peanut butter.
+
+![Black Rifle Project Mango](assets/black-rifle-project-mango.jpg)
+Black Rifle Project Mango - 6/10 - tastes like a mango juul pod.
+
+![Armaan's Bitter Kola](assets/armaans-bitter-kola.jpg)
+Armaan's Bitter Kola - Sierra Leone - 2/10 - tastes like elderberry syrup but worse.
+
+![Adrenaline Rush](assets/adrenaline-rush.jpg)
+Adrenaline Rush - Guatemala - 7.5/10 - tastes like orange juice.
+
+![Acassan AK-100](assets/acassan-ak-100.jpg)
+Acassan AK-100 - Haiti - 4/10 - tastes like ice cream flavored medicine.
+
+![Arizona Extreme Performance](assets/arizona-extreme-performance.jpg)
+Arizona Extreme Performance - 8/10
+
+![Arizona Performance Low Carb](assets/arizona-low-carb-performance.jpg)
+Arizona Extreme Performance - 8.5/10 - tastes like carbonated green tea.
+
+![Arizona Extreme Performance Fruit Punch](assets/arizona-extreme-performance-fruit-punch.jpg)
+Arizona Extreme Performance Fruit Punch - 8/10
