@@ -2,7 +2,7 @@
 id: 5b7488je7ve8lq30ztrt6tl
 title: Agorascope
 desc: ''
-updated: 1744394145210
+updated: 1745259639177
 created: 1744391686482
 ---
 
@@ -79,3 +79,13 @@ How is 'ownership' represented in schema.org? It seems like it kind of doesn't e
 [HMS_Cardiff_(D108)](https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)) - [Schema](https://schema.org/Vehicle)
 
 [HMS_Exeter_(D89)](https://en.wikipedia.org/wiki/HMS_Exeter_(D89)) - [Schema](https://schema.org/Vehicle)
+
+### Events
+
+[Operation Paraquet](https://en.wikipedia.org/wiki/Operation_Paraquet) - [Schema](https://schema.org/Event)
+
+[Operation Black Buck](https://en.wikipedia.org/wiki/Operation_Black_Buck) - [Schema](https://schema.org/EventSeries)
+
+Operation Black Buck is actually a series of 7 operations, so it's not a single event. This seems like an interesting schema model to consider.
+
+[Bluff Cove Air Attacks](https://en.wikipedia.org/wiki/Bluff_Cove_air_attacks) - [Schema](https://schema.org/Event)
