@@ -14,7 +14,8 @@
       "editor.tabCompletion": "on",
       "files.autoSave": "onFocusChange",
       "gitdoc.enabled": true,
-      "git.openRepositoryInParentFolders": "always",
+    "git.openRepositoryInParentFolders": "always",
+    "gitdoc.ai.enabled": true,
   },
   "extensions": {
       "recommendations": [
