@@ -1,14 +1,9 @@
 {
   "gitdoc.enabled": true,
-  "pasteImage.showFilePathConfirmInputBox": true,
-  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
-  "pasteImage.path": "${currentFileDir}/assets",
-  "pasteImage.defaultName": "${currentFileNameWithoutExt}",
-  "pasteImage.prefix": "/",
   "files.autoSave": "onFocusChange",
   "editor.snippetSuggestions": "inline",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.suggest.showSnippets": true,
   "editor.tabCompletion": "on",
-  "dendron.enableSelfContainedVaultWorkspace": true,
+  "dendron.enableSelfContainedVaultWorkspace": true
 }

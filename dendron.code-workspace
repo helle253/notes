@@ -14,9 +14,7 @@
       "editor.tabCompletion": "on",
       "files.autoSave": "onFocusChange",
       "gitdoc.enabled": true,
-      "pasteImage.showFilePathConfirmInputBox": true,
-      "pasteImage.path": "${currentFileDir}/assets",
-      "pasteImage.prefix": "/",
+      "git.openRepositoryInParentFolders": "always",
   },
   "extensions": {
       "recommendations": [
