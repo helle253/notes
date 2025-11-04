@@ -2,16 +2,17 @@
 id: jm9rzhy27qtismmtxxebpji
 title: Running Journal
 desc: ''
-updated: 1762275448283
+updated: 1762275528808
 created: 1688094720682
 published: false
 ---
 
 ### Pace Calculation Helpers
 
-```sh
-# Minutes
+```math
+# Minutes (there's no floor fn so just grab it yourself...)
 (($MIN + $SEC/60) / $DISTANCE)
+
 # Seconds
 ((($MIN + $SEC/60) / $DISTANCE) % 1) * 60
 ```
