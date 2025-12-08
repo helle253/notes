@@ -2,14 +2,14 @@
 id: jm9rzhy27qtismmtxxebpji
 title: Running Journal
 desc: ''
-updated: 1762275528808
+updated: 1765229608950
 created: 1688094720682
 published: false
 ---
 
 ### Pace Calculation Helpers
 
-```math
+```plaintext
 # Minutes (there's no floor fn so just grab it yourself...)
 (($MIN + $SEC/60) / $DISTANCE)
 
@@ -94,3 +94,12 @@ published: false
 | 2025-09-25 | 03.10mi | 24:48 | 08:00 |
 | 2025-10-08 | 03.10mi | 25:12 | 08:08 |
 | 2025-11-03 | 03.10mi | 25:46 | 08:19 |
+| 2025-11-11 | 03.10mi | 25:23 | 08:31 |
+| 2025-11-13 | 03.10mi | 25:22 | 08:11 |
+| 2025-11-17 | 03.00mi | 25:57 | 08:39 |
+| 2025-11-19 | 03.10mi | 24:17 | 07:50 |
+| 2025-11-20 | 04.00mi | 35:25 | 08:52 |
+| 2025-11-24 | 03.10mi | 24:25 | 07:52 |
+| 2025-12-04 | 06.20mi | 52:34 | 08:28 |
+| 2025-12-05 | 03.10mi | 24:47 | 08:00 |
+| 2025-12-08 | 03.10mi | 23:11 | 08:00 |
