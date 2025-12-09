@@ -2,7 +2,7 @@
 id: jm9rzhy27qtismmtxxebpji
 title: Running Journal
 desc: ''
-updated: 1765229671174
+updated: 1765322578421
 created: 1688094720682
 published: false
 ---
@@ -103,3 +103,4 @@ published: false
 | 2025-12-04 | 06.20mi | 52:34 | 08:28 |
 | 2025-12-05 | 03.10mi | 24:47 | 08:00 |
 | 2025-12-08 | 03.10mi | 23:11 | 07:29 |
+| 2025-12-09 | 05.00mi | 41:28 | 08:18 |
