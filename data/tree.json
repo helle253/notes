@@ -1,0 +1,253 @@
+{
+  "roots": [
+    {
+      "key": "0ieq1m81kni1smx4gmu94rj",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": []
+    },
+    {
+      "key": "3v20wtwdkuvpn8058of0eyv",
+      "title": "Misc",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "ebbcmkoia2heqmyan901n78",
+          "title": "Anime",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "kicm5w8v1cn7zam0wi4t0fr",
+          "title": "Energy Drinks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "rqlf2hsyoybrwb13pv4n2r6",
+          "title": "Midwest Geography",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "p3jkshup9vbta31zsjz0tvr",
+      "title": "Books",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "hx23fqpdslr1wmdmmgikle4",
+          "title": "A Peoples Tragedy the Russian Revolution",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "ayuib4erptj684h47xuuza7",
+          "title": "Fossil Legends of the First Americans",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "hh7ynd6lmogeao6u50pziw1",
+          "title": "Sand County Almanac",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "stt1r4lq1i1cl1rbbj0fv1t",
+          "title": "Strategy without Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "o8dcc2l9iz8h63o6fcukeho",
+          "title": "The History of the Devil",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ai2lflblfd5wh4pej45aqb7",
+      "title": "Projects",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "dv4qj9hqz478tmdcvs29zbp",
+          "title": "Astro Cards",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "08xg06wjojvpurfgoehgld1",
+          "title": "Software",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": [
+            {
+              "key": "5b7488je7ve8lq30ztrt6tl",
+              "title": "Agorascope",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "tkdutmzpz7rzne28r9m680h",
+              "title": "Dendron",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "lk0x0u1sbahf3dnfvsvr6lk",
+              "title": "Face Scanner",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            },
+            {
+              "key": "3wrqfar0uaz0v4pp4e62ta3",
+              "title": "Packmule",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ue1jmamlxv6xzh6r9ucoigs",
+      "title": "Writing",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "notes",
+      "children": [
+        {
+          "key": "bx2l5oi50su5vp1yo582oq7",
+          "title": "A Journey",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "3tzn5zmxnzybku6mycdy1v7",
+          "title": "American Dreamtime",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "zwv64dgqygxfartb75dt03e",
+          "title": "Astro Poems",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "dya6m0bs0m9dn9llieo7cfz",
+          "title": "Frank",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        },
+        {
+          "key": "5ti7u3qrblm1i1i3ih9k685",
+          "title": "Nighttime Rituals",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "notes",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "0ieq1m81kni1smx4gmu94rj": null,
+    "3v20wtwdkuvpn8058of0eyv": null,
+    "ebbcmkoia2heqmyan901n78": "3v20wtwdkuvpn8058of0eyv",
+    "kicm5w8v1cn7zam0wi4t0fr": "3v20wtwdkuvpn8058of0eyv",
+    "rqlf2hsyoybrwb13pv4n2r6": "3v20wtwdkuvpn8058of0eyv",
+    "p3jkshup9vbta31zsjz0tvr": null,
+    "hx23fqpdslr1wmdmmgikle4": "p3jkshup9vbta31zsjz0tvr",
+    "ayuib4erptj684h47xuuza7": "p3jkshup9vbta31zsjz0tvr",
+    "hh7ynd6lmogeao6u50pziw1": "p3jkshup9vbta31zsjz0tvr",
+    "stt1r4lq1i1cl1rbbj0fv1t": "p3jkshup9vbta31zsjz0tvr",
+    "o8dcc2l9iz8h63o6fcukeho": "p3jkshup9vbta31zsjz0tvr",
+    "ai2lflblfd5wh4pej45aqb7": null,
+    "dv4qj9hqz478tmdcvs29zbp": "ai2lflblfd5wh4pej45aqb7",
+    "08xg06wjojvpurfgoehgld1": "ai2lflblfd5wh4pej45aqb7",
+    "5b7488je7ve8lq30ztrt6tl": "08xg06wjojvpurfgoehgld1",
+    "tkdutmzpz7rzne28r9m680h": "08xg06wjojvpurfgoehgld1",
+    "lk0x0u1sbahf3dnfvsvr6lk": "08xg06wjojvpurfgoehgld1",
+    "3wrqfar0uaz0v4pp4e62ta3": "08xg06wjojvpurfgoehgld1",
+    "ue1jmamlxv6xzh6r9ucoigs": null,
+    "bx2l5oi50su5vp1yo582oq7": "ue1jmamlxv6xzh6r9ucoigs",
+    "3tzn5zmxnzybku6mycdy1v7": "ue1jmamlxv6xzh6r9ucoigs",
+    "zwv64dgqygxfartb75dt03e": "ue1jmamlxv6xzh6r9ucoigs",
+    "dya6m0bs0m9dn9llieo7cfz": "ue1jmamlxv6xzh6r9ucoigs",
+    "5ti7u3qrblm1i1i3ih9k685": "ue1jmamlxv6xzh6r9ucoigs"
+  },
+  "notesLabelById": {
+    "0ieq1m81kni1smx4gmu94rj": "Home",
+    "3v20wtwdkuvpn8058of0eyv": "Misc",
+    "ebbcmkoia2heqmyan901n78": "Anime",
+    "kicm5w8v1cn7zam0wi4t0fr": "Energy Drinks",
+    "rqlf2hsyoybrwb13pv4n2r6": "Midwest Geography",
+    "p3jkshup9vbta31zsjz0tvr": "Books",
+    "hx23fqpdslr1wmdmmgikle4": "A Peoples Tragedy the Russian Revolution",
+    "ayuib4erptj684h47xuuza7": "Fossil Legends of the First Americans",
+    "hh7ynd6lmogeao6u50pziw1": "Sand County Almanac",
+    "stt1r4lq1i1cl1rbbj0fv1t": "Strategy without Design",
+    "o8dcc2l9iz8h63o6fcukeho": "The History of the Devil",
+    "ai2lflblfd5wh4pej45aqb7": "Projects",
+    "dv4qj9hqz478tmdcvs29zbp": "Astro Cards",
+    "08xg06wjojvpurfgoehgld1": "Software",
+    "5b7488je7ve8lq30ztrt6tl": "Agorascope",
+    "tkdutmzpz7rzne28r9m680h": "Dendron",
+    "lk0x0u1sbahf3dnfvsvr6lk": "Face Scanner",
+    "3wrqfar0uaz0v4pp4e62ta3": "Packmule",
+    "ue1jmamlxv6xzh6r9ucoigs": "Writing",
+    "bx2l5oi50su5vp1yo582oq7": "A Journey",
+    "3tzn5zmxnzybku6mycdy1v7": "American Dreamtime",
+    "zwv64dgqygxfartb75dt03e": "Astro Poems",
+    "dya6m0bs0m9dn9llieo7cfz": "Frank",
+    "5ti7u3qrblm1i1i3ih9k685": "Nighttime Rituals"
+  }
+}

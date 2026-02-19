@@ -1,0 +1,893 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815494,
+      "created": 1771542815495,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ue1jmamlxv6xzh6r9ucoigs": {
+      "fname": "writing",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815102,
+      "created": 1771542815102,
+      "id": "ue1jmamlxv6xzh6r9ucoigs",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bx2l5oi50su5vp1yo582oq7",
+        "3tzn5zmxnzybku6mycdy1v7",
+        "zwv64dgqygxfartb75dt03e",
+        "dya6m0bs0m9dn9llieo7cfz",
+        "5ti7u3qrblm1i1i3ih9k685"
+      ],
+      "parent": null,
+      "data": {},
+      "title": "Writing",
+      "custom": {
+        "nav_order": 4
+      }
+    },
+    "5ti7u3qrblm1i1i3ih9k685": {
+      "id": "5ti7u3qrblm1i1i3ih9k685",
+      "title": "Nighttime Rituals",
+      "desc": "2:30 AM, Dec. 14 2022",
+      "updated": 1729546421722,
+      "created": 1689881839663,
+      "custom": {},
+      "fname": "writing.nighttime-rituals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ebed097e38c9092ac0f48afea814c6d6",
+      "links": [],
+      "anchors": {
+        "230-am-dec-14-2022": {
+          "type": "header",
+          "text": "2:30 AM, Dec. 14 2022",
+          "value": "230-am-dec-14-2022",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ue1jmamlxv6xzh6r9ucoigs",
+      "data": {}
+    },
+    "dya6m0bs0m9dn9llieo7cfz": {
+      "id": "dya6m0bs0m9dn9llieo7cfz",
+      "title": "Frank",
+      "desc": "",
+      "updated": 1734270442841,
+      "created": 1730318599354,
+      "custom": {},
+      "fname": "writing.frank",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "19dcf6c7071ab6aa71c0672656426247",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ue1jmamlxv6xzh6r9ucoigs",
+      "data": {}
+    },
+    "zwv64dgqygxfartb75dt03e": {
+      "id": "zwv64dgqygxfartb75dt03e",
+      "title": "Astro Poems",
+      "desc": "",
+      "updated": 1689884077863,
+      "created": 1687969977571,
+      "custom": {},
+      "fname": "writing.astro-poems",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "1c6b81322c5ca1361307148a4a9802ad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ue1jmamlxv6xzh6r9ucoigs",
+      "data": {}
+    },
+    "3tzn5zmxnzybku6mycdy1v7": {
+      "id": "3tzn5zmxnzybku6mycdy1v7",
+      "title": "American Dreamtime",
+      "desc": "",
+      "updated": 1729546427381,
+      "created": 1689881806634,
+      "custom": {},
+      "fname": "writing.american-dreamtime",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "95d19dd7d356b26e7d32b0f10a8933dc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ue1jmamlxv6xzh6r9ucoigs",
+      "data": {}
+    },
+    "bx2l5oi50su5vp1yo582oq7": {
+      "id": "bx2l5oi50su5vp1yo582oq7",
+      "title": "A Journey",
+      "desc": "",
+      "updated": 1689884006068,
+      "created": 1689881873974,
+      "custom": {},
+      "fname": "writing.a-journey",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "449ef9e4b9243251e00eae3390da5945",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ue1jmamlxv6xzh6r9ucoigs",
+      "data": {}
+    },
+    "ai2lflblfd5wh4pej45aqb7": {
+      "fname": "projects",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815101,
+      "created": 1771542815101,
+      "id": "ai2lflblfd5wh4pej45aqb7",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "dv4qj9hqz478tmdcvs29zbp",
+        "08xg06wjojvpurfgoehgld1"
+      ],
+      "parent": null,
+      "data": {},
+      "title": "Projects",
+      "custom": {
+        "nav_order": 3
+      }
+    },
+    "08xg06wjojvpurfgoehgld1": {
+      "id": "08xg06wjojvpurfgoehgld1",
+      "title": "Software",
+      "desc": "",
+      "updated": 1730393987129,
+      "created": 1730393978819,
+      "custom": {},
+      "fname": "projects.software",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "49e36d9cbad069373be8cecf65100a9b",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5b7488je7ve8lq30ztrt6tl",
+        "tkdutmzpz7rzne28r9m680h",
+        "lk0x0u1sbahf3dnfvsvr6lk",
+        "3wrqfar0uaz0v4pp4e62ta3"
+      ],
+      "parent": "ai2lflblfd5wh4pej45aqb7",
+      "data": {}
+    },
+    "3wrqfar0uaz0v4pp4e62ta3": {
+      "id": "3wrqfar0uaz0v4pp4e62ta3",
+      "title": "Packmule",
+      "desc": "",
+      "updated": 1689884721249,
+      "created": 1687479679590,
+      "custom": {},
+      "fname": "projects.software.packmule",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "8441a2e1b597dba98fc3e69ac33931ff",
+      "links": [],
+      "anchors": {
+        "packmule-boulangerie-source-code": {
+          "type": "header",
+          "text": "Packmule Boulangerie (Source Code)",
+          "value": "packmule-boulangerie-source-code",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "08xg06wjojvpurfgoehgld1",
+      "data": {}
+    },
+    "lk0x0u1sbahf3dnfvsvr6lk": {
+      "id": "lk0x0u1sbahf3dnfvsvr6lk",
+      "title": "Face Scanner",
+      "desc": "",
+      "updated": 1687978567962,
+      "created": 1687479207633,
+      "custom": {},
+      "fname": "projects.software.face-scanner",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "cadece5446645cbb5b93e913dec57f74",
+      "links": [],
+      "anchors": {
+        "flutter-face-scanner-ios-app-source-code": {
+          "type": "header",
+          "text": "Flutter Face Scanner iOS App (Source Code)",
+          "value": "flutter-face-scanner-ios-app-source-code",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "08xg06wjojvpurfgoehgld1",
+      "data": {}
+    },
+    "tkdutmzpz7rzne28r9m680h": {
+      "id": "tkdutmzpz7rzne28r9m680h",
+      "title": "Dendron",
+      "desc": "",
+      "updated": 1687579651295,
+      "created": 1687532011688,
+      "custom": {},
+      "fname": "projects.software.dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "85885563c6b581e184ea32fca834a82a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "08xg06wjojvpurfgoehgld1",
+      "data": {}
+    },
+    "5b7488je7ve8lq30ztrt6tl": {
+      "id": "5b7488je7ve8lq30ztrt6tl",
+      "title": "Agorascope",
+      "desc": "",
+      "updated": 1745259639177,
+      "created": 1744391686482,
+      "custom": {},
+      "fname": "projects.software.agorascope",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "a96e62eef785ec55663d91a2437f55cf",
+      "links": [],
+      "anchors": {
+        "falkland-islands-war": {
+          "type": "header",
+          "text": "Falkland Islands War",
+          "value": "falkland-islands-war",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "places": {
+          "type": "header",
+          "text": "Places",
+          "value": "places",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "organizations": {
+          "type": "header",
+          "text": "Organizations",
+          "value": "organizations",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "british-naval-forces": {
+          "type": "header",
+          "text": "British Naval Forces",
+          "value": "british-naval-forces",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "centaur-class-carrier": {
+          "type": "header",
+          "text": "Centaur Class Carrier",
+          "value": "centaur-class-carrier",
+          "line": 32,
+          "column": 0,
+          "depth": 4
+        },
+        "centaur-class-ships": {
+          "type": "header",
+          "text": "Centaur Class Ships",
+          "value": "centaur-class-ships",
+          "line": 36,
+          "column": 0,
+          "depth": 5
+        },
+        "invincible-class-carrier": {
+          "type": "header",
+          "text": "Invincible Class Carrier",
+          "value": "invincible-class-carrier",
+          "line": 40,
+          "column": 0,
+          "depth": 4
+        },
+        "invincible-class-ships": {
+          "type": "header",
+          "text": "Invincible Class Ships",
+          "value": "invincible-class-ships",
+          "line": 44,
+          "column": 0,
+          "depth": 5
+        },
+        "fearless-class-lpd": {
+          "type": "header",
+          "text": "Fearless Class LPD",
+          "value": "fearless-class-lpd",
+          "line": 48,
+          "column": 0,
+          "depth": 4
+        },
+        "fearless-class-ships": {
+          "type": "header",
+          "text": "Fearless Class Ships",
+          "value": "fearless-class-ships",
+          "line": 52,
+          "column": 0,
+          "depth": 5
+        },
+        "type-82-destroyer": {
+          "type": "header",
+          "text": "Type 82 Destroyer",
+          "value": "type-82-destroyer",
+          "line": 58,
+          "column": 0,
+          "depth": 4
+        },
+        "type-82-destroyer-ships": {
+          "type": "header",
+          "text": "Type 82 Destroyer Ships",
+          "value": "type-82-destroyer-ships",
+          "line": 62,
+          "column": 0,
+          "depth": 5
+        },
+        "type-42-destroyer": {
+          "type": "header",
+          "text": "Type 42 Destroyer",
+          "value": "type-42-destroyer",
+          "line": 66,
+          "column": 0,
+          "depth": 4
+        },
+        "type-42-destroyer-ships": {
+          "type": "header",
+          "text": "Type 42 Destroyer Ships",
+          "value": "type-42-destroyer-ships",
+          "line": 70,
+          "column": 0,
+          "depth": 5
+        },
+        "events": {
+          "type": "header",
+          "text": "Events",
+          "value": "events",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "08xg06wjojvpurfgoehgld1",
+      "data": {}
+    },
+    "dv4qj9hqz478tmdcvs29zbp": {
+      "id": "dv4qj9hqz478tmdcvs29zbp",
+      "title": "Astro Cards",
+      "desc": "",
+      "updated": 1729546461697,
+      "created": 1687969521827,
+      "custom": {},
+      "fname": "projects.astro-cards",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b73ed2adcc5c130e0fe8610c009bccb4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ai2lflblfd5wh4pej45aqb7",
+      "data": {}
+    },
+    "p3jkshup9vbta31zsjz0tvr": {
+      "fname": "books",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815099,
+      "created": 1771542815099,
+      "id": "p3jkshup9vbta31zsjz0tvr",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hx23fqpdslr1wmdmmgikle4",
+        "ayuib4erptj684h47xuuza7",
+        "hh7ynd6lmogeao6u50pziw1",
+        "stt1r4lq1i1cl1rbbj0fv1t",
+        "o8dcc2l9iz8h63o6fcukeho"
+      ],
+      "parent": null,
+      "data": {},
+      "title": "Books",
+      "custom": {
+        "nav_order": 2
+      }
+    },
+    "o8dcc2l9iz8h63o6fcukeho": {
+      "id": "o8dcc2l9iz8h63o6fcukeho",
+      "title": "The History of the Devil",
+      "desc": "",
+      "updated": 1690560418600,
+      "created": 1690560122963,
+      "custom": {},
+      "fname": "books.the-history-of-the-devil",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ab72b9a90fcce11c83ac30666bcdf5e7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p3jkshup9vbta31zsjz0tvr",
+      "data": {}
+    },
+    "stt1r4lq1i1cl1rbbj0fv1t": {
+      "id": "stt1r4lq1i1cl1rbbj0fv1t",
+      "title": "Strategy without Design",
+      "desc": "",
+      "updated": 1687620040056,
+      "created": 1687619657044,
+      "custom": {},
+      "fname": "books.strategy-without-design",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "ec31145884c0a6dd5f86f93416a7ce07",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p3jkshup9vbta31zsjz0tvr",
+      "data": {}
+    },
+    "hh7ynd6lmogeao6u50pziw1": {
+      "id": "hh7ynd6lmogeao6u50pziw1",
+      "title": "Sand County Almanac",
+      "desc": "",
+      "updated": 1688598155108,
+      "created": 1688598015582,
+      "custom": {},
+      "fname": "books.sand-county-almanac",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "0f9fa396eef473d06f64893fd06eb75b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p3jkshup9vbta31zsjz0tvr",
+      "data": {}
+    },
+    "ayuib4erptj684h47xuuza7": {
+      "id": "ayuib4erptj684h47xuuza7",
+      "title": "Fossil Legends of the First Americans",
+      "desc": "",
+      "updated": 1687438840514,
+      "created": 1687406974626,
+      "custom": {},
+      "fname": "books.fossil-legends-of-the-first-americans",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "3e3922fe968e2a5b39925c2e3d945bb6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p3jkshup9vbta31zsjz0tvr",
+      "data": {}
+    },
+    "hx23fqpdslr1wmdmmgikle4": {
+      "id": "hx23fqpdslr1wmdmmgikle4",
+      "title": "A Peoples Tragedy the Russian Revolution",
+      "desc": "",
+      "updated": 1687642556255,
+      "created": 1687439160207,
+      "custom": {},
+      "fname": "books.a-peoples-tragedy-the-russian-revolution",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "b4f3ff07d1464b9e9e87c664000dc428",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p3jkshup9vbta31zsjz0tvr",
+      "data": {}
+    },
+    "3v20wtwdkuvpn8058of0eyv": {
+      "fname": "misc",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815101,
+      "created": 1771542815101,
+      "id": "3v20wtwdkuvpn8058of0eyv",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ebbcmkoia2heqmyan901n78",
+        "kicm5w8v1cn7zam0wi4t0fr",
+        "rqlf2hsyoybrwb13pv4n2r6"
+      ],
+      "parent": null,
+      "data": {},
+      "title": "Misc",
+      "custom": {
+        "nav_order": 1
+      }
+    },
+    "rqlf2hsyoybrwb13pv4n2r6": {
+      "id": "rqlf2hsyoybrwb13pv4n2r6",
+      "title": "Midwest Geography",
+      "desc": "",
+      "updated": 1689883655473,
+      "created": 1687964121898,
+      "custom": {},
+      "fname": "misc.midwest-geography",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "4e9c5390801a4cc01145156a1c5bea6a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "3v20wtwdkuvpn8058of0eyv",
+      "data": {}
+    },
+    "kicm5w8v1cn7zam0wi4t0fr": {
+      "id": "kicm5w8v1cn7zam0wi4t0fr",
+      "title": "Energy Drinks",
+      "desc": "",
+      "updated": 1742844667868,
+      "created": 1688906787037,
+      "custom": {},
+      "fname": "misc.energy-drinks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "c9d2b89afe9b4215d437f735f3670c53",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "3v20wtwdkuvpn8058of0eyv",
+      "data": {}
+    },
+    "ebbcmkoia2heqmyan901n78": {
+      "id": "ebbcmkoia2heqmyan901n78",
+      "title": "Anime",
+      "desc": "",
+      "updated": 1730314289454,
+      "created": 1729624701021,
+      "custom": {},
+      "fname": "misc.anime",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "93eafec6f8da408acd8681db6464b5e9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "3v20wtwdkuvpn8058of0eyv",
+      "data": {}
+    },
+    "0ieq1m81kni1smx4gmu94rj": {
+      "id": "0ieq1m81kni1smx4gmu94rj",
+      "title": "Home",
+      "desc": "",
+      "updated": 1730393792032,
+      "created": 1730393636355,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2e466bdc94e9b477698a14056fac7731",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "0ieq1m81kni1smx4gmu94rj",
+      "title": "Home",
+      "desc": "",
+      "updated": 1730393792032,
+      "created": 1730393636355,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "contentHash": "2e466bdc94e9b477698a14056fac7731",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\nHey, my name is Nathan.\n\nI'm a programmer a Blue Bottle Coffee.\n\nMy day job involves a lot of Typescript and Ruby. I bang on the frontend, the backend, and everything in between. Owing to this, I've had a lot of exposure to just about every part of our stack - from Tailwind & UI components to our [mobile app](https://apps.apple.com/us/app/blue-bottle-coffee/id1440573734) to CDK and provisioning/managing AWS resources. To be honest, I wouldn't have it any other way. I love learning - having my fingers in every part of the software pie (frontend, backend, devops, [...]) ensures I've always got something new consider.\n\nThis website is markdown and I use [Dendron](https://www.dendron.so/) to take notes. Not much here (yet) but hopefully that will change. You can look at the source [here](https://github.com/helle253/notes).\n"
+    },
+    {
+      "fname": "misc",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815101,
+      "created": 1771542815101,
+      "id": "3v20wtwdkuvpn8058of0eyv",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ebbcmkoia2heqmyan901n78",
+        "kicm5w8v1cn7zam0wi4t0fr",
+        "rqlf2hsyoybrwb13pv4n2r6"
+      ],
+      "parent": null,
+      "body": "",
+      "data": {},
+      "title": "Misc",
+      "custom": {
+        "nav_order": 1
+      }
+    },
+    {
+      "fname": "books",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815099,
+      "created": 1771542815099,
+      "id": "p3jkshup9vbta31zsjz0tvr",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hx23fqpdslr1wmdmmgikle4",
+        "ayuib4erptj684h47xuuza7",
+        "hh7ynd6lmogeao6u50pziw1",
+        "stt1r4lq1i1cl1rbbj0fv1t",
+        "o8dcc2l9iz8h63o6fcukeho"
+      ],
+      "parent": null,
+      "body": "",
+      "data": {},
+      "title": "Books",
+      "custom": {
+        "nav_order": 2
+      }
+    },
+    {
+      "fname": "projects",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815101,
+      "created": 1771542815101,
+      "id": "ai2lflblfd5wh4pej45aqb7",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "dv4qj9hqz478tmdcvs29zbp",
+        "08xg06wjojvpurfgoehgld1"
+      ],
+      "parent": null,
+      "body": "",
+      "data": {},
+      "title": "Projects",
+      "custom": {
+        "nav_order": 3
+      }
+    },
+    {
+      "fname": "writing",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "notes"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1771542815102,
+      "created": 1771542815102,
+      "id": "ue1jmamlxv6xzh6r9ucoigs",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "bx2l5oi50su5vp1yo582oq7",
+        "3tzn5zmxnzybku6mycdy1v7",
+        "zwv64dgqygxfartb75dt03e",
+        "dya6m0bs0m9dn9llieo7cfz",
+        "5ti7u3qrblm1i1i3ih9k685"
+      ],
+      "parent": null,
+      "body": "",
+      "data": {},
+      "title": "Writing",
+      "custom": {
+        "nav_order": 4
+      }
+    }
+  ],
+  "noteIndex": {
+    "id": "0ieq1m81kni1smx4gmu94rj",
+    "title": "Home",
+    "desc": "",
+    "updated": 1730393792032,
+    "created": 1730393636355,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "home",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "notes"
+    },
+    "contentHash": "2e466bdc94e9b477698a14056fac7731",
+    "links": [],
+    "anchors": {},
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": "\nHey, my name is Nathan.\n\nI'm a programmer a Blue Bottle Coffee.\n\nMy day job involves a lot of Typescript and Ruby. I bang on the frontend, the backend, and everything in between. Owing to this, I've had a lot of exposure to just about every part of our stack - from Tailwind & UI components to our [mobile app](https://apps.apple.com/us/app/blue-bottle-coffee/id1440573734) to CDK and provisioning/managing AWS resources. To be honest, I wouldn't have it any other way. I love learning - having my fingers in every part of the software pie (frontend, backend, devops, [...]) ensures I've always got something new consider.\n\nThis website is markdown and I use [Dendron](https://www.dendron.so/) to take notes. Not much here (yet) but hopefully that will change. You can look at the source [here](https://github.com/helle253/notes).\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "notes"
+    }
+  ]
+}
