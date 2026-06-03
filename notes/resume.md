@@ -18,9 +18,9 @@ Senior software engineer with 8+ years of experience architecting and scaling co
 ## Core Skills
 
 - **Languages:** Ruby, TypeScript, SQL, Python, Dart, HTML/CSS
-- **Backend:** Ruby on Rails, REST API design, PostgreSQL, DynamoDB, system integration, data migration
-- **Cloud / Platform:** AWS (ECS, Fargate, Lambda, CloudFormation), GitHub Actions, CI/CD, Infrastructure as Code, observability, PagerDuty
-- **Full-Stack:** Flutter, Next.js, Sanity, internal tooling, operational workflows
+- **Backend:** Ruby on Rails, Node.js, Express, REST API design, tRPC, PostgreSQL, DynamoDB, system integration, data migration
+- **Cloud / Platform:** AWS (ECS, Fargate, Lambda, CloudFormation), Cloudflare Workers, GitHub Actions, CI/CD, Infrastructure as Code, observability, PagerDuty
+- **Full-Stack:** React, Vite, Flutter, Next.js, Sanity, internal tooling, operational workflows
 - **Integrations:** Paytronix, Square, Yotpo, Algolia, fulfillment platforms
 
 ## Experience
@@ -47,9 +47,19 @@ _St. Paul, MN | 2017–2019_
 - Authored and reviewed automated verification scripts to validate software requirements in a regulated environment.
 - Maintained internal QA tooling and built Bash automation to accelerate manual validation workflows.
 
-## Projects
+## Independent Work
 
-### Agorascope
+### Agorascope — Founder / Software Engineer
+
+_Part-time | 2024–Present_
+
+- Architected and built a production full-stack TypeScript application end-to-end in a Yarn monorepo, owning product development across React, Node/Express, PostgreSQL, and Cloudflare services.
+- Built two React + Vite frontends: a primary user application plus an internal admin interface for operational workflows and system management.
+- Designed and implemented backend APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, emphasizing type safety across the application stack.
+- Developed a distributed ingestion pipeline for article/feed processing with Cloudflare Workers, browser/native fetch paths, queue-based processing, and downstream embedding/indexing workflows.
+- Launched the product publicly and continue iterating on architecture, deployment, and product capabilities as an independent project.
+
+## Projects
 
 ### Progress Athens
 
