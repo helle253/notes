@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780504646251
+updated: 1780506976857
 created: 1779470412712
 ---
 
@@ -27,7 +27,7 @@ Senior software engineer with 8+ years of experience architecting and scaling co
 
 ### Blue Bottle Coffee — Senior Software Engineer
 
-_Oakland, CA | 2019–Present (promoted to Senior Software Engineer in March 2026)_
+_Oakland, CA | 2019–Present_
 
 - Re-architected the OMS backend for Blue Bottle’s mobile app, consolidating three services into a single Rails platform and reducing long-term operational complexity.
 - Served as technical lead for the mobile backend, owning API architecture, schema design, documentation, and delivery coordination across internal engineers and external contractors.
@@ -49,7 +49,7 @@ _St. Paul, MN | 2017–2019_
 
 ## Independent Work
 
-### Agorascope — Founder / Software Engineer
+### Agorascope — Founder / CTO
 
 _Part-time | 2024–Present_
 
