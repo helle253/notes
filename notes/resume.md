@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780501989017
+updated: 1780502412404
 created: 1779470412712
 ---
 
@@ -47,7 +47,9 @@ _St. Paul, MN | 2017–2019_
 - Authored and reviewed automated verification scripts to validate software requirements in a regulated environment.
 - Maintained internal QA tooling and built Bash automation to accelerate manual validation workflows.
 
-## Selected Projects
+## Projects
+
+### Agorascope
 
 ### Progress Athens
 
