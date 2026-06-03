@@ -2,14 +2,14 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780504243223
+updated: 1780504524495
 created: 1779470412712
 ---
 
 # Nathan Heller
 
 Chicago, IL
-nathanhellbhoy@gmail.com • [hellbhoy.net](hellbhoy.net) • GitHub: [helle253](github.com/helle253)
+nathanhellbhoy@gmail.com • [hellbhoy.net](hellbhoy.net) • ![Github Logo](assets/adrenaline-rush.jpg)[helle253](github.com/helle253)
 
 ## Summary
 
