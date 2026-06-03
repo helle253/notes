@@ -1,5 +1,5 @@
 {
-  "gitdoc.enabled": false,
+  "gitdoc.enabled": true,
   "files.autoSave": "onFocusChange",
   "editor.snippetSuggestions": "inline",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
