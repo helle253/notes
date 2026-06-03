@@ -37,7 +37,7 @@ _Oakland, CA | 2019–Present_
 - Built migration scripts and operational workflows to replatform legacy OMS data into Orion, moving 25,000+ subscriptions representing $12M+ in annual revenue.
 - Reduced CI/CD build times from ~30 to ~12 minutes and cut flaky pipeline failures 80% through GitHub Actions optimization, deployment simplification, and test-suite hardening.
 - Implemented observability and operational tooling, including PagerDuty-backed alerting that reduced checkout incident detection from 1–2 hours to 15–20 minutes and ticket-printing changes that reduced semantic noise ~60%.
-- Used coding agents to rapidly implement new internal tools for cafe operations and menu management, improving delivery speed for business-critical workflows.
+- Leveraged coding agents to rapidly deliver new internal tools for cafe operations and menu management, accelerating implementation of business-critical workflows.
 - Delivered revenue-critical integrations and internal tooling that supported $15M in annual revenue and generated thousands of customer reviews through automated review pipelines.
 - Helped ship a cross-platform Flutter app in six months, increasing mobile revenue 40% and supporting cafe continuity during COVID-era demand shifts.
 
@@ -58,7 +58,7 @@ _Part-time | 2024–Present_
 - Built two React + Vite frontends: a primary user application plus an internal admin interface for operational workflows and system management.
 - Designed and implemented backend APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, emphasizing type safety across the application stack.
 - Developed a distributed ingestion pipeline for article/feed processing with Cloudflare Workers, browser/native fetch paths, queue-based processing, and downstream embedding/indexing workflows.
-- Used Coding agents as code reviewers/pair programmers
+- Leveraged coding agents as code reviewers and pair programmers to ramp quickly in an unfamiliar language and framework, improving code quality and speeding technical decision-making.
 - Launched the product publicly and continue to iterate on architecture, deployment, and product capabilities as an independent project.
 
 ## Projects
