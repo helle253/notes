@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780503861377
+updated: 1780503897267
 created: 1779470412712
 ---
 
@@ -63,7 +63,7 @@ _Part-time | 2024–Present_
 
 ### Progress Athens
 
-[Site](https://progressathens.org/) - [Source code](https://github.com/helle253/athens-foundation)
+[Link](https://progressathens.org/) - [Source code](https://github.com/helle253/athens-foundation)
 
 Jekyll + GitHub Pages website for a Wisconsin nonprofit.
 
