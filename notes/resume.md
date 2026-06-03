@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780502412404
+updated: 1780503708136
 created: 1779470412712
 ---
 
@@ -61,11 +61,13 @@ _Part-time | 2024–Present_
 
 ## Projects
 
-### Progress Athens
+### [progressathens.org](https://progressathens.org/)
 
 Jekyll + GitHub Pages website for a Wisconsin nonprofit.
 
 ### Wikimedia Bot
+
+[Bluesky](https://bsky.app/profile/wikimedia-bot.hellbhoy.net) - [Twitter](https://twitter.com/wikimedia_bot) - [Mastodon](https://brinjal.org/@wikimedia)
 
 AWS Lambda + DynamoDB bot that posts high-quality Wikimedia Commons images to social platforms.
 
