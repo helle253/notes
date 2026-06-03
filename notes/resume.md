@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780501792169
+updated: 1780501989017
 created: 1779470412712
 ---
 
@@ -29,23 +29,23 @@ Senior full-stack/backend software engineer with 8+ years of experience building
 
 _Oakland, CA | 2019–Present (promoted to Senior Software Engineer in March 2026)_
 
-- Rewrote the OMS backend powering Blue Bottle’s mobile app, consolidating functionality spread across three services into a single backend, reducing long-term platform complexity.
-- Led backend development for the mobile app, designing and documenting new REST APIs, coordinating delivery across internal engineers plus external contractors, and acting as the technical owner for API design and execution.
-- Built mobile backend outside, including cafe search, menu, ordering, and cafe-operations endpoints, while helping drive Paytronix loyalty integration strategy.
-- Migrated Orion infrastructure into a federated AWS account, replaced legacy CloudFormation with isolated Infrastructure-as-Code and GitHub Actions deployments, and moved ECS workloads to Fargate, reducing AWS spend by 25% (~$36K/year) while improving reliability and scalability.
-- Upgraded Orion from Rails 5.2 / Ruby 2.7 to Rails 6.1 / Ruby 3.2 with no downtime, and stood up a production-like staging environment to improve release safety.
-- Built scripts and workflows to replatform legacy OMS data into Orion, supporting migration of 25,000+ subscriptions representing $12M+ in annual revenue.
-- Reduced CI/CD build times from ~30 minutes to ~12 minutes and lowered flaky pipeline failures by 80% through GitHub Actions optimization, deployment simplification, and test-suite hardening.
-- Implemented observability and operational tooling, including PagerDuty-backed alerting that cut checkout incident detection from 1–2 hours to 20–25 minutes and cafe ticket-print improvements that reduced semantic noise by ~60%.
-- Delivered revenue and efficiency gains through backend integrations and internal tools: OMS/fulfillment systems driving $15M in annual revenue, Yotpo review pipelines generating 1,900+ reviews in five months, and self-serve menu update tooling that eliminated 5–10 engineering hours per month.
-- Earlier, helped ship a cross-platform Flutter mobile app in six months, increasing mobile revenue by 40% and enabling cafes to remain operational during COVID-era demand shifts.
+- Rewrote the OMS backend for Blue Bottle’s mobile app, consolidating three services into one and reducing platform complexity.
+- Led mobile backend development, owning REST API design/docs and coordinating internal engineers and external contractors.
+- Built mobile backend endpoints for cafe search, menus, ordering, and cafe operations; helped shape Paytronix loyalty integration.
+- Migrated Orion to a federated AWS account, replaced legacy CloudFormation with isolated IaC and GitHub Actions deployments, and moved ECS workloads to Fargate, cutting AWS spend 25% (~$36K/year).
+- Upgraded Orion from Rails 5.2 / Ruby 2.7 to Rails 6.1 / Ruby 3.2 with no downtime; added a production-like staging environment to allow robust testing.
+- Built scripts and workflows to migrate legacy OMS data into Orion, moving 25,000+ subscriptions representing $12M+ in annual revenue.
+- Cut CI/CD build times from ~30 to ~12 minutes and reduced flaky pipeline failures 80% through GitHub Actions, deployment, and test-suite improvements.
+- Built observability and ops tooling, including PagerDuty-backed alerting that cut checkout incident detection from 1–2 hours to 15-20 minutes and cafe ticket-print changes that reduced semantic noise ~60%.
+- Delivered backend integrations and internal tools that drove $15M in annual revenue, generating thousands of user reviews in five months.
+- Helped ship a cross-platform Flutter mobile app in six months, increasing mobile revenue 40% and keeping cafes operational during COVID-era demand shifts.
 
 ### Abbott Laboratories — Software Verification Engineer
 
 _St. Paul, MN | 2017–2019_
 
-- Created and reviewed automated verification scripts to validate software requirements in a regulated environment.
-- Maintained internal QA tooling and built Bash automation that accelerated manual validation workflows.
+- Created and reviewed automated verification scripts for software requirements in a regulated environment.
+- Maintained internal QA tooling and built Bash automation to speed manual validation workflows.
 
 ## Selected Projects
 
