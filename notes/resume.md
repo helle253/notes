@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780506976857
+updated: 1780509982317
 created: 1779470412712
 ---
 
@@ -58,7 +58,7 @@ _Part-time | 2024–Present_
 - Built two React + Vite frontends: a primary user application plus an internal admin interface for operational workflows and system management.
 - Designed and implemented backend APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, emphasizing type safety across the application stack.
 - Developed a distributed ingestion pipeline for article/feed processing with Cloudflare Workers, browser/native fetch paths, queue-based processing, and downstream embedding/indexing workflows.
-- Used CodeRabbit and coding agents to critically review code in subject areas outside my deepest expertise, improving implementation quality and accelerating confident decision-making.
+- Used Coding agents as code reviewers/pair programmers
 - Launched the product publicly and continue to iterate on architecture, deployment, and product capabilities as an independent project.
 
 ## Projects
