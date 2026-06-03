@@ -2,7 +2,8 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1780509982317
+notes: ''
+updated: 1780516765999
 created: 1779470412712
 ---
 
