@@ -2,7 +2,7 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-updated: 1779470418464
+updated: 1780501792169
 created: 1779470412712
 ---
 
@@ -29,9 +29,9 @@ Senior full-stack/backend software engineer with 8+ years of experience building
 
 _Oakland, CA | 2019–Present (promoted to Senior Software Engineer in March 2026)_
 
-- Rewrote the OMS backend powering Blue Bottle’s mobile app, consolidating functionality spread across three services into a single backend and reducing long-term platform complexity.
-- Led backend development for the v3 mobile app / loyalty rewrite, designing and documenting new REST APIs, coordinating delivery across internal engineers plus Bounteous and Work & Co, and acting as the technical owner for API execution.
-- Built the majority of new mobile APIs outside auth/membership, including cafe search, menu, ordering, and cafe-operations endpoints, while helping drive Paytronix loyalty integration strategy.
+- Rewrote the OMS backend powering Blue Bottle’s mobile app, consolidating functionality spread across three services into a single backend, reducing long-term platform complexity.
+- Led backend development for the mobile app, designing and documenting new REST APIs, coordinating delivery across internal engineers plus external contractors, and acting as the technical owner for API design and execution.
+- Built mobile backend outside, including cafe search, menu, ordering, and cafe-operations endpoints, while helping drive Paytronix loyalty integration strategy.
 - Migrated Orion infrastructure into a federated AWS account, replaced legacy CloudFormation with isolated Infrastructure-as-Code and GitHub Actions deployments, and moved ECS workloads to Fargate, reducing AWS spend by 25% (~$36K/year) while improving reliability and scalability.
 - Upgraded Orion from Rails 5.2 / Ruby 2.7 to Rails 6.1 / Ruby 3.2 with no downtime, and stood up a production-like staging environment to improve release safety.
 - Built scripts and workflows to replatform legacy OMS data into Orion, supporting migration of 25,000+ subscriptions representing $12M+ in annual revenue.
