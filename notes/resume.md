@@ -2,8 +2,15 @@
 id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
-notes: ''
-updated: 1780516765999
+notes: |
+  TODO Feedback:
+  1. Would put 15m revenue as first sentence
+  2. Would put AI as its own category
+    - Codex, Claude code, copilot, embeddings, cosine similarity, super base
+  3. Agorascope would keep as a project until it’s officially launched
+    - The bullet points are impressive from a dev perspective but if you say CTO the expectation is driving users / revenue / sales / views or something like that
+  4. it has to be cut down into one page but prefer any bullets w business impact over pure tech
+updated: 1780516856539
 created: 1779470412712
 ---
 
