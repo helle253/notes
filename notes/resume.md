@@ -10,7 +10,7 @@ notes: |
   3. Agorascope would keep as a project until it’s officially launched
     - The bullet points are impressive from a dev perspective but if you say CTO the expectation is driving users / revenue / sales / views or something like that
   4. it has to be cut down into one page but prefer any bullets w business impact over pure tech
-updated: 1780516856539
+updated: 1780585744644
 created: 1779470412712
 ---
 
@@ -50,6 +50,12 @@ _St. Paul, MN | 2017–2019_
 - Developed a distributed ingestion pipeline for article and feed processing with Cloudflare Workers, queue-based processing, and downstream embedding and indexing workflows.
 - Designed end-to-end type-safe APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, and used coding agents to accelerate implementation across product and infrastructure work.
 
+### pi-peon
+
+[npm](https://www.npmjs.com/package/@helle253/pi-peon) - [Source Code](https://github.com/helle253/pi-peon)
+
+Published open-source npm extension and agent harness for Pi, enabling external service integration and custom agent workflows.
+
 ### Wikimedia Bot
 
 [Bluesky](https://bsky.app/profile/wikimedia-bot.hellbhoy.net) - [Source Code](https://github.com/helle253/wikimedia-bot/)
@@ -64,6 +70,7 @@ AWS Lambda + DynamoDB bot that posts high-quality Wikimedia Commons images to so
 - **Frontend / Mobile:** React, Vite, Next.js, Flutter, Sanity
 - **Integrations:** Paytronix, Square, Yotpo, Algolia, fulfillment platforms
 - **Architecture / Delivery:** platform consolidation, system integration, data migration, internal tooling, agentic development workflows, cross-functional technical leadership
+- **AI / Agentic Development**: Claude Code, Codex, Copilot, embeddings, prompt-driven workflows
 
 ## Education
 
