@@ -23,15 +23,6 @@ nathanhellbhoy@gmail.com • [hellbhoy.net](https://hellbhoy.net/) • [github.c
 
 Engineer with 8+ years building and modernizing commerce, loyalty, and operational systems supporting $15M+ in annual revenue. Delivered measurable gains in reliability, delivery speed, and infrastructure cost through platform consolidation, zero-downtime upgrades, cloud migration, and data replatforming across Rails, AWS, and web/mobile stacks.
 
-## Core Skills
-
-- **Languages:** Ruby, TypeScript, SQL, Python, Dart, HTML/CSS
-- **Backend:** Ruby on Rails, Node.js, Express, REST APIs, tRPC, PostgreSQL, DynamoDB
-- **Cloud / Infrastructure:** AWS (ECS, Fargate, Lambda, CloudFormation), Cloudflare Workers, GitHub Actions, CI/CD, Infrastructure as Code, observability, PagerDuty
-- **Frontend / Mobile:** React, Vite, Next.js, Flutter, Sanity
-- **Integrations:** Paytronix, Square, Yotpo, Algolia, fulfillment platforms
-- **Architecture / Delivery:** platform consolidation, system integration, data migration, internal tooling, agentic development workflows, cross-functional technical leadership
-
 ## Experience
 
 ### Blue Bottle Coffee — Senior Software Engineer
@@ -64,6 +55,15 @@ _St. Paul, MN | 2017–2019_
 [Bluesky](https://bsky.app/profile/wikimedia-bot.hellbhoy.net) - [Source Code](https://github.com/helle253/wikimedia-bot/)
 
 AWS Lambda + DynamoDB bot that posts high-quality Wikimedia Commons images to social platforms.
+
+## Core Skills
+
+- **Languages:** Ruby, TypeScript, SQL, Python, Dart, HTML/CSS
+- **Backend:** Ruby on Rails, Node.js, Express, REST APIs, tRPC, PostgreSQL, DynamoDB
+- **Cloud / Infrastructure:** AWS (ECS, Fargate, Lambda, CloudFormation), Cloudflare Workers, GitHub Actions, CI/CD, Infrastructure as Code, observability, PagerDuty
+- **Frontend / Mobile:** React, Vite, Next.js, Flutter, Sanity
+- **Integrations:** Paytronix, Square, Yotpo, Algolia, fulfillment platforms
+- **Architecture / Delivery:** platform consolidation, system integration, data migration, internal tooling, agentic development workflows, cross-functional technical leadership
 
 ## Education
 
