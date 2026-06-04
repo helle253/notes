@@ -54,19 +54,15 @@ _St. Paul, MN | 2017–2019_
 - Authored and reviewed automated verification scripts to validate software requirements in a regulated environment.
 - Maintained internal QA tooling and built Bash automation to accelerate manual validation workflows.
 
-## Independent Work
+## Projects
 
-### Agorascope — Founder / CTO
-
-_Part-time | 2024–Present_
+### Agorascope
 
 - Architected and launched a production full-stack TypeScript application in a Yarn monorepo, owning architecture and delivery across React, Node/Express, PostgreSQL, and Cloudflare services.
 - Built two React + Vite frontends: a primary user application and an internal admin interface for operational workflows and system management.
 - Designed backend APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, emphasizing end-to-end type safety across the application stack.
 - Developed a distributed ingestion pipeline for article and feed processing with Cloudflare Workers, queue-based processing, browser/native fetch paths, and downstream embedding and indexing workflows.
 - Used coding agents as reviewers and pair-programming aids to accelerate ramp-up in a new stack and speed implementation across product and infrastructure work.
-
-## Projects
 
 ### Wikimedia Bot
 
