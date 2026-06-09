@@ -1,7 +1,3 @@
----
-title: Running Journal
-published: false
----
 
 # Running Journal
 

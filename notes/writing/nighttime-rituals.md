@@ -1,6 +1,3 @@
----
-title: Nighttime Rituals
----
 
 # Nighttime Rituals
 

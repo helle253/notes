@@ -1,6 +1,3 @@
----
-title: Frank
----
 
 # Frank
 

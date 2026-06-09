@@ -1,7 +1,3 @@
----
-title: Session 2
-publish: false
----
 
 # Session 2
 

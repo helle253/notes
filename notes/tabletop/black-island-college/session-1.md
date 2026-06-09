@@ -1,7 +1,3 @@
----
-title: Session 1
-publish: false
----
 
 # Session 1
 

@@ -1,6 +1,3 @@
----
-title: Energy Drinks
----
 
 # Energy Drinks
 

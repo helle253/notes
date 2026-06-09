@@ -1,6 +1,3 @@
----
-title: Astro Cards
----
 
 # Astro Cards
 

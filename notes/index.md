@@ -1,6 +1,3 @@
----
-title: Home
----
 
 # Index
 

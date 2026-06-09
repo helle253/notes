@@ -1,6 +1,3 @@
----
-title: Black Island College
----
 
 # Index
 

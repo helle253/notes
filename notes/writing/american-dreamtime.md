@@ -1,6 +1,3 @@
----
-title: American Dreamtime
----
 
 # American Dreamtime
 

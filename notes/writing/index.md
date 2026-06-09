@@ -1,6 +1,3 @@
----
-title: Writing
----
 
 # Index
 

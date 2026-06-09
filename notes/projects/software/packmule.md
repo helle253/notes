@@ -1,6 +1,3 @@
----
-title: Packmule
----
 
 # Packmule
 
