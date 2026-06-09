@@ -1,9 +1,5 @@
 ---
-id: 0ieq1m81kni1smx4gmu94rj
 title: Home
-desc: ''
-updated: 1730393792032
-created: 1730393636355
 ---
 
 Hey, my name is Nathan.

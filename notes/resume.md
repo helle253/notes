@@ -1,10 +1,6 @@
 ---
-id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
-desc: ''
 notes: ''
-updated: 1781031383531
-created: 1779470412712
 ---
 
 # Nathan Heller

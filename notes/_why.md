@@ -1,9 +1,5 @@
 ---
-id: ast8ye5eep0w0vzipf6ro23
 title: _why
-desc: ''
-updated: 1771609179551
-created: 1771542000147
 ---
 
 a collection of links,
