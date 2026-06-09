@@ -2,6 +2,9 @@
 title: Session 4
 publish: false
 ---
+
+# Session 4
+
 Skill check passes:
 
 Handgun,

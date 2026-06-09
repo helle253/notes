@@ -2,6 +2,8 @@
 title: Nighttime Rituals
 ---
 
+# Nighttime Rituals
+
 ### 2:30 AM, Dec. 14 2022
 
 It’s my shift and I cannot sleep  

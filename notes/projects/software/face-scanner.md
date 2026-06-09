@@ -1,6 +1,9 @@
 ---
 title: Face Scanner
 ---
+
+# Face Scanner
+
 ## Flutter Face Scanner iOS App ([Source Code](https://github.com/helle253/face-scanner))
 
 A little proof of concept app I whipped up as a PoC for a friend.

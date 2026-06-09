@@ -3,6 +3,8 @@ title: Session 2
 publish: false
 ---
 
+# Session 2
+
 Session 2 -
 
 Macalester Amalgamated Detective Agency

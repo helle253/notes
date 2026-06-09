@@ -2,6 +2,8 @@
 title: Energy Drinks
 ---
 
+# Energy Drinks
+
 ![M-150](energy-drinks_assets/m-150.png)
 M150 Can - Thai - 4/10 - sugar rush in a can, tastes good but has the caffeine of a cup of tea
 

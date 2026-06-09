@@ -2,6 +2,8 @@
 title: Home
 ---
 
+# Index
+
 Hey, my name is Nathan.
 
 I'm a programmer a Blue Bottle Coffee.
@@ -19,3 +21,11 @@ This website is markdown and I use [Dendron](https://www.dendron.so/) to take no
 - [[_why]]
 - [[resume]]
 - [[vedanta-reading-group]]
+
+[books]: books/index "Books"
+[misc]: misc/index "Misc"
+[projects]: projects/index "Projects"
+[writing]: writing/index "Writing"
+[_why]: _why "_why"
+[resume]: resume "Resume"
+[vedanta-reading-group]: vedanta-reading-group "Vedanta Reading Group"

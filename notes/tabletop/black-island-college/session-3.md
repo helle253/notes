@@ -3,6 +3,8 @@ title: Session 3
 publish: false
 ---
 
+# Session 3
+
 - Pushing a roll
   - you can 'push' a failed roll and try failed rolls 1 time (if the DM agrees to it) in exchange for more consequences.
   - you can NOT push combat rolls, but you can push other rolls.
