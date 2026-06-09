@@ -3,7 +3,7 @@ theme: minima
 source: ./notes
 
 header_pages:
-  - books/index.md
-  - misc/index.md
-  - projects/index.md
-  - writing/index.md
+  - books
+  - misc
+  - projects
+  - writing
