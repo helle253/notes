@@ -1,9 +1,9 @@
 ---
-title: "Index"
+title: "Software"
 ---
 
 
-# Index
+# Software
 
 - [[agorascope]]
 - [[packmule]]

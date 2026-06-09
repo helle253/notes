@@ -1,9 +1,9 @@
 ---
-title: "Index"
+title: "Black Island College"
 ---
 
 
-# Index
+# Black Island College
 
 - [[session-1]]
 - [[session-2]]

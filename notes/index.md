@@ -1,8 +1,8 @@
 ---
-title: "Index"
+title: "Nathan Heller"
 ---
 
-# Index
+# Nathan Heller
 
 Hey, my name is Nathan.
 
