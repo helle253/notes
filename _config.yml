@@ -3,4 +3,4 @@ theme: minima
 source: ./notes
 
 header_pages:
-  - books/index.md
+  - notes/books/index.md
