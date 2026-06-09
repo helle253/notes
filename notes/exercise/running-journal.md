@@ -1,3 +1,6 @@
+---
+title: 'Running Journal'
+---
 
 # Running Journal
 

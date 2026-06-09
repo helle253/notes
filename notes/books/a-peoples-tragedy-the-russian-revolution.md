@@ -1,3 +1,7 @@
+---
+title: "A Peoples Tragedy the Russian Revolution"
+---
+
 
 # A Peoples Tragedy the Russian Revolution
 

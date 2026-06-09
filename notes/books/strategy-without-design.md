@@ -1,3 +1,7 @@
+---
+title: "Strategy without Design"
+---
+
 
 # Strategy without Design
 

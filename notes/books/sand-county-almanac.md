@@ -1,3 +1,7 @@
+---
+title: "Sand County Almanac"
+---
+
 
 # Sand County Almanac
 
