@@ -1,5 +1,5 @@
 
-# Index
+# Misc
 
 - [[anime]]
 - [[energy-drinks]]

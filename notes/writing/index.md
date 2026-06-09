@@ -1,5 +1,5 @@
 
-# Index
+# Writing
 
 - [[a-journey]]
 - [[american-dreamtime]]

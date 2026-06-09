@@ -1,5 +1,5 @@
 
-# Index
+# Projects
 
 - [[astro-cards]]
 - [[software]]
