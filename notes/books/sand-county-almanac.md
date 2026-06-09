@@ -6,6 +6,6 @@ updated: 1688598155108
 created: 1688598015582
 ---
 
-![Sand County Almanac Cover](assets/sand-county-almanac.png)
+![Sand County Almanac Cover](sand-county-almanac_assets/sand-county-almanac.png)
 
-[Sand County Almanac PDF](assets/sand-county-almanac.pdf)
+[Sand County Almanac PDF](sand-county-almanac_assets/sand-county-almanac.pdf)

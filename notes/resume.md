@@ -1,6 +1,5 @@
 ---
 title: Resume
-notes: ''
 ---
 
 # Nathan Heller

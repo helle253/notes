@@ -1,6 +1,7 @@
 ---
 title: Packmule
 ---
+
 ## Packmule Boulangerie ([Source Code](https://github.com/helle253/packmule))
 
 A rails app I put together for a buddy of mine. It is not currently live, unfortunately.
@@ -11,7 +12,7 @@ CCapture.js allowed me to preserve a constant frame-rate during the recording pr
 
 I wanted to add some primitive controls (view-angle, distance, rotation speed, duration, etc.) but working with Javascript from within Rails is pretty onerous, and the MVP got the job done.
 
-![Example Viewport](./packmule_assets/packmule.gif)
+![Example Viewport](packmule_assets/packmule.gif)
 
 The cursor is missing in this snippet, but hovering over one of the cards would pause the rotation!
 
