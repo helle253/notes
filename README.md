@@ -1,3 +1,7 @@
+---
+title: README.md
+---
+
 # notes
 
 Hi,
