@@ -3,7 +3,7 @@ id: 17n5p6a0tdm8g6valfui3qt
 title: Resume
 desc: ''
 notes: ''
-updated: 1780589722694
+updated: 1781031383531
 created: 1779470412712
 ---
 
@@ -47,7 +47,7 @@ _St. Paul, MN | 2017–2019_
 
 [npm](https://www.npmjs.com/package/@helle253/pi-peon) - [Source Code](https://github.com/helle253/pi-peon)
 
-Published open-source npm extension and agent harness for Pi, enabling external service integration and custom agent workflows.
+Published open-source extension for the Pi agent harness, enabling integration with OpenPeon and custom agent workflows.
 
 ### Wikimedia Bot
 
@@ -61,7 +61,7 @@ AWS Lambda + DynamoDB bot that posts high-quality Wikimedia Commons images to so
 - **Backend:** Ruby on Rails, Node.js, Express, REST APIs, tRPC, PostgreSQL, DynamoDB
 - **Cloud / Infrastructure:** AWS (ECS, Fargate, Lambda, CloudFormation), Cloudflare Workers, GitHub Actions, CI/CD, Infrastructure as Code, observability, PagerDuty
 - **Frontend / Mobile:** React, Vite, Next.js, Flutter, Sanity
-- **Integrations:** Paytronix, Square, Yotpo, Algolia, fulfillment platforms
+- **Integrations:** Paytronix, Square, Yotpo, Algolia
 - **Architecture / Delivery:** platform consolidation, system integration, data migration, internal tooling, agentic development workflows, cross-functional technical leadership
 - **AI / Agentic Development**: Claude Code, Codex, Copilot, embeddings, prompt-driven workflows
 
