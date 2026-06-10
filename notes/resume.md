@@ -15,7 +15,7 @@ Engineer with 8+ years building and modernizing commerce, loyalty, and operation
 
 ### Blue Bottle Coffee — Senior Software Engineer
 
-_Oakland, CA | 2019–Present_
+_Oakland, CA - 2019–Present_
 
 - Led re-architecture of the mobile order-management backend, consolidating three services into a single Rails platform and reducing long-term operational complexity.
 - Replatformed 25,000+ subscriptions representing $12M+ in annual revenue into a new order-management platform through migration scripts and operational workflows.
@@ -26,7 +26,7 @@ _Oakland, CA | 2019–Present_
 
 ### Abbott Laboratories — Software Verification Engineer
 
-_St. Paul, MN | 2017–2019_
+_St. Paul, MN - 2017–2019_
 
 - Authored automated verification scripts and internal QA tooling in a regulated environment, using Bash automation to accelerate manual validation workflows.
 
