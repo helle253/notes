@@ -1,5 +1,5 @@
 ---
-title: "Session 2"
+title: 'Session 2'
 ---
 
 Session 2 -

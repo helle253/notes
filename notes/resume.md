@@ -1,5 +1,5 @@
 ---
-title: "Nathan Heller"
+title: 'Nathan Heller'
 ---
 
 Chicago, IL

@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: 'Writing'
 ---
 
 - [[a-journey]]
@@ -7,4 +7,3 @@ title: "Writing"
 - [[astro-poems]]
 - [[frank]]
 - [[nighttime-rituals]]
-

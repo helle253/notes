@@ -1,5 +1,5 @@
 ---
-title: "Fossil Legends of the First Americans"
+title: 'Fossil Legends of the First Americans'
 ---
 
 Woah, Ben Franklin was a noted paleontologist??? Interesting how many famous seminal Americans were ALSO avid dinosaur guys.

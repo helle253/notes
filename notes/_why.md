@@ -1,5 +1,5 @@
 ---
-title: "_Why"
+title: '_Why'
 ---
 
 a collection of links,
@@ -12,7 +12,6 @@ a collection of links,
 - https://github.com/mislav/poignant-guide
 - https://en.wikipedia.org/wiki/Why_the_lucky_stiff
 - https://archive.org/details/136875051WhySCompletePrinterSpoolAsOneBook/mode/2up
-
 
 ## whylike projects
 

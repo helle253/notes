@@ -1,5 +1,5 @@
 ---
-title: "Energy Drinks"
+title: 'Energy Drinks'
 ---
 
 ![M-150](energy-drinks_assets/m-150.png)

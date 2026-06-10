@@ -1,5 +1,5 @@
 ---
-title: "Sand County Almanac"
+title: 'Sand County Almanac'
 ---
 
 ![Sand County Almanac Cover](sand-county-almanac_assets/sand-county-almanac.png)

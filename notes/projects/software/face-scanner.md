@@ -1,5 +1,5 @@
 ---
-title: "Face Scanner"
+title: 'Face Scanner'
 ---
 
 ## Flutter Face Scanner iOS App ([Source Code](https://github.com/helle253/face-scanner))

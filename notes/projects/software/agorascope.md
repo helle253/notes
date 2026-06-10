@@ -1,5 +1,5 @@
 ---
-title: "Agorascope"
+title: 'Agorascope'
 ---
 
 ## Falkland Islands War
@@ -28,19 +28,19 @@ How is 'ownership' represented in schema.org? It seems like it kind of doesn't e
 
 #### Centaur Class Carrier
 
-[HMS_Invincible_(R05)](https://en.wikipedia.org/wiki/HMS_Invincible_(R05))
+[HMS*Invincible*(R05)](<https://en.wikipedia.org/wiki/HMS_Invincible_(R05)>)
 
 ##### Centaur Class Ships
 
-[HMS_Hermes_(R12)](https://en.wikipedia.org/wiki/HMS_Hermes_(R12)) - [Schema](https://schema.org/Vehicle)
+[HMS*Hermes*(R12)](<https://en.wikipedia.org/wiki/HMS_Hermes_(R12)>) - [Schema](https://schema.org/Vehicle)
 
 #### Invincible Class Carrier
 
-[HMS_Invincible_(R05)](https://en.wikipedia.org/wiki/HMS_Invincible_(R05))
+[HMS*Invincible*(R05)](<https://en.wikipedia.org/wiki/HMS_Invincible_(R05)>)
 
 ##### Invincible Class Ships
 
-[HMS_Invincible_(R05)](https://en.wikipedia.org/wiki/HMS_Invincible_(R05)) - [Schema](https://schema.org/Vehicle)
+[HMS*Invincible*(R05)](<https://en.wikipedia.org/wiki/HMS_Invincible_(R05)>) - [Schema](https://schema.org/Vehicle)
 
 #### Fearless Class LPD
 
@@ -48,9 +48,9 @@ How is 'ownership' represented in schema.org? It seems like it kind of doesn't e
 
 ##### Fearless Class Ships
 
-[HMS_Fearless_(L10)](https://en.wikipedia.org/wiki/HMS_Fearless_(L10)) - [Schema](https://schema.org/Vehicle)
+[HMS*Fearless*(L10)](<https://en.wikipedia.org/wiki/HMS_Fearless_(L10)>) - [Schema](https://schema.org/Vehicle)
 
-[HMS_Intrepid_(L11)](https://en.wikipedia.org/wiki/HMS_Intrepid_(L11)) - [Schema](https://schema.org/Vehicle)
+[HMS*Intrepid*(L11)](<https://en.wikipedia.org/wiki/HMS_Intrepid_(L11)>) - [Schema](https://schema.org/Vehicle)
 
 #### Type 82 Destroyer
 
@@ -58,7 +58,7 @@ How is 'ownership' represented in schema.org? It seems like it kind of doesn't e
 
 ##### Type 82 Destroyer Ships
 
-[HMS_Bristol_(D23)](https://en.wikipedia.org/wiki/HMS_Bristol_(D23)) - [Schema](https://schema.org/Vehicle)
+[HMS*Bristol*(D23)](<https://en.wikipedia.org/wiki/HMS_Bristol_(D23)>) - [Schema](https://schema.org/Vehicle)
 
 #### Type 42 Destroyer
 
@@ -66,15 +66,15 @@ How is 'ownership' represented in schema.org? It seems like it kind of doesn't e
 
 ##### Type 42 Destroyer Ships
 
-[HMS_Sheffield_(D80)](https://en.wikipedia.org/wiki/HMS_Sheffield_(D80)) - [Schema](https://schema.org/Vehicle)
+[HMS*Sheffield*(D80)](<https://en.wikipedia.org/wiki/HMS_Sheffield_(D80)>) - [Schema](https://schema.org/Vehicle)
 
-[HMS_Coventry_(D118)](https://en.wikipedia.org/wiki/HMS_Coventry_(D118)) - [Schema](https://schema.org/Vehicle)
+[HMS*Coventry*(D118)](<https://en.wikipedia.org/wiki/HMS_Coventry_(D118)>) - [Schema](https://schema.org/Vehicle)
 
-[HMS_Glasgow_(D88)](https://en.wikipedia.org/wiki/HMS_Glasgow_(D88)) - [Schema](https://schema.org/Vehicle)
+[HMS*Glasgow*(D88)](<https://en.wikipedia.org/wiki/HMS_Glasgow_(D88)>) - [Schema](https://schema.org/Vehicle)
 
-[HMS_Cardiff_(D108)](https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)) - [Schema](https://schema.org/Vehicle)
+[HMS*Cardiff*(D108)](<https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)>) - [Schema](https://schema.org/Vehicle)
 
-[HMS_Exeter_(D89)](https://en.wikipedia.org/wiki/HMS_Exeter_(D89)) - [Schema](https://schema.org/Vehicle)
+[HMS*Exeter*(D89)](<https://en.wikipedia.org/wiki/HMS_Exeter_(D89)>) - [Schema](https://schema.org/Vehicle)
 
 ### Events
 

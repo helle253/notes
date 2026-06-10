@@ -7,9 +7,14 @@ title: 'Books'
 - [[sand-county-almanac]]
 - [[strategy-without-design]]
 - [[the-history-of-the-devil]]
+<<<<<<< Updated upstream
 
 [a-peoples-tragedy-the-russian-revolution]: books/a-peoples-tragedy-the-russian-revolution 'A Peoples Tragedy the Russian Revolution'
 [fossil-legends-of-the-first-americans]: books/fossil-legends-of-the-first-americans 'Fossil Legends of the First Americans'
 [sand-county-almanac]: books/sand-county-almanac 'Sand County Almanac'
 [strategy-without-design]: books/strategy-without-design 'Strategy without Design'
 [the-history-of-the-devil]: books/the-history-of-the-devil 'The History of the Devil'
+||||||| Stash base
+
+=======
+>>>>>>> Stashed changes

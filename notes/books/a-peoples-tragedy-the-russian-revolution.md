@@ -1,5 +1,5 @@
 ---
-title: "A Peoples Tragedy the Russian Revolution"
+title: 'A Peoples Tragedy the Russian Revolution'
 ---
 
 A notable failure of the provisional government (maybe a common failure mode for centrist govts?) was Karensky's lack of appeal as a leader, especially in comparison to the charismatic Lenin.

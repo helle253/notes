@@ -1,5 +1,5 @@
 ---
-title: "Midwest Geography"
+title: 'Midwest Geography'
 ---
 
 Ohio: Iqoquosi, 'great river'

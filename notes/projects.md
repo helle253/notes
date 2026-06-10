@@ -1,7 +1,6 @@
 ---
-title: "Projects"
+title: 'Projects'
 ---
 
 - [[astro-cards]]
 - [[software]]
-

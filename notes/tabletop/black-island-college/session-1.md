@@ -1,5 +1,5 @@
 ---
-title: "Session 1"
+title: 'Session 1'
 ---
 
 ## NOTE - need to uh make a backup character
@@ -13,12 +13,10 @@ Early Springtime in Jersey. 5 days ago, college prez did not report for meeting.
 North side of the island, Jones has a private residence on school grounds. Visited in the last few weeks. We are tasked with going up to the residence to see if we can find him.
 
 Timbuktu:
-  Burned notes in the fire pit
-  Undrank old fashioned
-  Burn damage, collapsed roof
-  Weird watercolors
-    - Giant fish guy squeezing a man
-    - Island like Corcorrseet, lizard people eating people. people lined up walking onto the island.
+Burned notes in the fire pit
+Undrank old fashioned
+Burn damage, collapsed roof
+Weird watercolors - Giant fish guy squeezing a man - Island like Corcorrseet, lizard people eating people. people lined up walking onto the island.
 
 Dead body in one of the bedrooms
 

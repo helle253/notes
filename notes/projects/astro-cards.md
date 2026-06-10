@@ -1,5 +1,5 @@
 ---
-title: "Astro Cards"
+title: 'Astro Cards'
 ---
 
 ![Postcard](astro-cards_assets/postcard-pisces.png)

@@ -1,5 +1,5 @@
 ---
-title: "Session 3"
+title: 'Session 3'
 ---
 
 - Pushing a roll
@@ -21,9 +21,9 @@ Magazine is popular mechanics, with a scifi-esque picture of an energizer bunny
 Wilson Pickens
 
 Weird fella:
-  It squats in the center of time. It squats in the jungle of Kled.
+It squats in the center of time. It squats in the jungle of Kled.
 
-  In two days time you will see me again
+In two days time you will see me again
 
 The address smells like an underwater grotto. It's disgusting and awfully taken care of.
 

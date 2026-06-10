@@ -1,8 +1,7 @@
 ---
-title: "Software"
+title: 'Software'
 ---
 
 - [[agorascope]]
 - [[packmule]]
 - [[face-scanner]]
-

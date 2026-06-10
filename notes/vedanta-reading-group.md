@@ -1,4 +1,3 @@
 ---
-title: "Vedanta Reading Group"
+title: 'Vedanta Reading Group'
 ---
-
