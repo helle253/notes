@@ -1,6 +1,8 @@
 ---
-title: 'Nathan Heller'
+title: 'Resume'
 ---
+
+# Nathan Heller
 
 Chicago, IL
 nathanhellbhoy@gmail.com • [hellbhoy.net](https://hellbhoy.net/) • [github.com/helle253](https://github.com/helle253/)
