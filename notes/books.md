@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: 'Books'
 ---
 
 - [[a-peoples-tragedy-the-russian-revolution]]
@@ -8,3 +8,8 @@ title: "Books"
 - [[strategy-without-design]]
 - [[the-history-of-the-devil]]
 
+[a-peoples-tragedy-the-russian-revolution]: books/a-peoples-tragedy-the-russian-revolution 'A Peoples Tragedy the Russian Revolution'
+[fossil-legends-of-the-first-americans]: books/fossil-legends-of-the-first-americans 'Fossil Legends of the First Americans'
+[sand-county-almanac]: books/sand-county-almanac 'Sand County Almanac'
+[strategy-without-design]: books/strategy-without-design 'Strategy without Design'
+[the-history-of-the-devil]: books/the-history-of-the-devil 'The History of the Devil'
