@@ -25,4 +25,3 @@ This website is markdown. Not much here (yet) but hopefully that will change. Yo
 [writing]: writing 'Writing'
 [_why]: _why '_Why'
 [resume]: resume 'Nathan Heller'
-[vedanta-reading-group]: vedanta-reading-group 'Vedanta Reading Group'
