@@ -22,10 +22,3 @@ This website is markdown. Not much here (yet) but hopefully that will change. Yo
 - [[resume]]
 - [[vedanta-reading-group]]
 
-[books]: books/index 'Books'
-[misc]: misc/index 'Misc'
-[projects]: projects/index 'Projects'
-[writing]: writing/index 'Writing'
-[_why]: _why '_why'
-[resume]: resume 'Resume'
-[vedanta-reading-group]: vedanta-reading-group 'Vedanta Reading Group'

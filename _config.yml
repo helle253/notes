@@ -1,6 +1,25 @@
-name: Nathan Heller
-theme: minima
+title: "Nathan Heller"
+description: "Nathan's notes."
+url: "https://notes.hellbhoy.net"
 source: ./notes
+theme: minima
 
+# Jekyll ignores _-prefixed files by default; _why.md needs an explicit include.
+include:
+  - _why.md
+
+
+# minima renders ONE global header listing every titled page.
+# paths are relative to `source`, so NO `notes/` prefix.
 header_pages:
-  - notes/books/index.md
+  - books.md
+  - misc.md
+  - projects.md
+  - writing.md
+
+plugins:
+  - jekyll-default-layout   # auto-assigns home/page layouts (no `layout:` in frontmatter)
+  - jekyll-wikirefs         # native [[wikilinks]] -> real links (needs unique filenames)
+  - jekyll-relative-links   # rewrites [text](other.md) links
+  - jekyll-seo-tag
+  - jekyll-sitemap
