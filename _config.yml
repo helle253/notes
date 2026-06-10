@@ -15,6 +15,7 @@ header_pages:
   - misc.md
   - projects.md
   - writing.md
+  - software.md
   - resume.md
 
 plugins:
