@@ -1,5 +1,4 @@
 ---
-title: ''
 ---
 
 Hey, my name is Nathan.
