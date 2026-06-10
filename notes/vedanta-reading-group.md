@@ -1,3 +1,0 @@
----
-title: 'Vedanta Reading Group'
----

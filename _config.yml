@@ -9,17 +9,17 @@ include:
   - _why.md
 
 
-# minima renders ONE global header listing every titled page.
 # paths are relative to `source`, so NO `notes/` prefix.
 header_pages:
   - books.md
   - misc.md
   - projects.md
   - writing.md
+  - resume.md
 
 plugins:
   - jekyll-default-layout   # auto-assigns home/page layouts (no `layout:` in frontmatter)
-  - jekyll-wikirefs         # native [[wikilinks]] -> real links (needs unique filenames)
-  - jekyll-relative-links   # rewrites [text](other.md) links
+  - jekyll-wikirefs
+  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
