@@ -2,9 +2,6 @@
 title: "Session 1"
 ---
 
-
-# Session 1
-
 ## NOTE - need to uh make a backup character
 
 Sanity takes place of HP sorta.

@@ -2,9 +2,6 @@
 title: "Anime"
 ---
 
-
-# Anime
-
 Dumping a list of anime (and other, similar animated flicks) I like.
 
 - Trigun

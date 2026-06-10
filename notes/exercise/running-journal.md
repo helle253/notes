@@ -2,8 +2,6 @@
 title: 'Running Journal'
 ---
 
-# Running Journal
-
 ### Pace Calculation Helpers
 
 ```plaintext

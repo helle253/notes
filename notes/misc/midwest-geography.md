@@ -2,9 +2,6 @@
 title: "Midwest Geography"
 ---
 
-
-# Midwest Geography
-
 Ohio: Iqoquosi, 'great river'
 
 Minnesota: Dakota, 'sky-tinted water'

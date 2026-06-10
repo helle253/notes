@@ -2,9 +2,6 @@
 title: "Session 4"
 ---
 
-
-# Session 4
-
 Skill check passes:
 
 Handgun,

@@ -2,9 +2,6 @@
 title: "A Journey"
 ---
 
-
-# A Journey
-
 two men, a muslim and a jew, set out on foot  
 from neighbouring towns, on a pilgrimage to jerusalem  
 they meet upon the road, and agree to share in the journey.  
