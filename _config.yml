@@ -2,6 +2,7 @@ title: "Nathan Heller"
 description: "Nathan's notes."
 url: "https://notes.hellbhoy.net"
 source: ./notes
+theme: minima
 
 include:
   - _why.md
