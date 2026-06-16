@@ -3,13 +3,13 @@ description: "Nathan's notes."
 url: "https://notes.hellbhoy.net"
 source: ./notes
 theme: minima
+minima:
+  skin: solarized
 
-# Jekyll ignores _-prefixed files by default; _why.md needs an explicit include.
 include:
   - _why.md
 
 
-# paths are relative to `source`, so NO `notes/` prefix.
 header_pages:
   - books.md
   - misc.md
@@ -19,7 +19,7 @@ header_pages:
   - resume.md
 
 plugins:
-  - jekyll-default-layout   # auto-assigns home/page layouts (no `layout:` in frontmatter)
+  - jekyll-default-layout
   - jekyll-wikirefs
   - jekyll-relative-links
   - jekyll-seo-tag
