@@ -3,8 +3,6 @@ description: "Nathan's notes."
 url: "https://notes.hellbhoy.net"
 source: ./notes
 theme: minima
-minima:
-  skin: dark
 
 include:
   - _why.md
