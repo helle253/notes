@@ -17,7 +17,6 @@ This website is markdown. Not much here (yet) but hopefully that will change. Yo
 - [[writing]]
 - [[_why]]
 - [[resume]]
-- [[vedanta-reading-group]]
 
 [books]: books 'Books'
 [misc]: misc 'Misc'
