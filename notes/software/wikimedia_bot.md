@@ -14,3 +14,4 @@ TODO:
 
 - I think the date filtering is a little borked still/not truly random?
 - Gotta figure out why it seems to be posting more and more sporadically (likely related to #1)
+- It looks like wikimedia is throwing back a 429 error, which is funky. We aren't sending many requests to download (BUT we might be sending a bunch as part of the lookup?)
