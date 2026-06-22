@@ -35,6 +35,8 @@ _St. Paul, MN - 2017–2019_
 
 ### Agorascope
 
+[Link](https://atlas.agorascope.org/)
+
 - Built a production full-stack TypeScript application in a Yarn monorepo across React, Node/Express, PostgreSQL, and Cloudflare services.
 - Developed a distributed ingestion pipeline for article and feed processing with Cloudflare Workers, queue-based processing, and downstream embedding and indexing workflows.
 - Designed end-to-end type-safe APIs and shared types with Express, tRPC, Drizzle ORM, and Zod, and used coding agents to accelerate implementation across product and infrastructure work.
