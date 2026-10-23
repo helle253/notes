@@ -96,3 +96,8 @@ Arizona Extreme Performance - 8.5/10 - tastes like carbonated green tea.
 
 ![Arizona Extreme Performance Fruit Punch](energy-drinks_assets/arizona-extreme-performance-fruit-punch.jpg)
 Arizona Extreme Performance Fruit Punch - 8/10
+
+![Monster Zero Sugar Vanilla Shot](energy-drinks_assets/monster-zero-sugar-vanilla-shot.jpeg)
+Monster Zero Sugar Vanilla Shot - 8/10
+
+If you squint, you can almost make out the vanilla. I had similar feelings abouth the Strawberry shot they released over the summer...
