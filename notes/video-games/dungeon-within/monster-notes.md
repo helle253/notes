@@ -199,6 +199,16 @@ Heat: Fire Damage dealt increases by the number of stacks (Duration: 12 sec, Max
 
 Decent healer? Might be useful support for Pegasus/Fenrir when kitted out?
 
+### Air Elemental
+
+M: Physical AOE On hit
+S1: Chance to stun on hit
+S2: Reduced damage from ranged
+
+S1 seems the most useful, but M is handy too
+
+Stun: Unable to act or move. Attackers gain Advantage on Attack Roll against this target. Has Disadvantage on STR Save and DEX Save, and Armor Class (AC) is reduced by 2. (Duration: 3 sec)
+
 ### Lich
 
 S1 seems goated for necrotic rooms
