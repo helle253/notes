@@ -153,6 +153,20 @@ S2 is highly replacable. Skeletal Steed S1/S2 or Manticore S1 are replacements.
 
 Meh
 
+### Unicorn
+
+S1 seems handy for field-charming. Main is fine, not great, but would be good on T3 musters probably.
+T2 is meh
+
+- Basic Attack: 2d8+DEX Physical
+- Innate: Poison Immunity, Celestial Grace
+- M: 3d10+DEX Physical, Ignores 5 AC
+- S1: Projects an aura that inflicts Charmed on all enemies. Enemies that fail the save are affected for the duration of the engagement. Enemies that succeed on the save make the check again every 7 sec.
+- S2: Gains Shield of Purity every 5 sec.
+
+Celestial Grace: All Attacks increases by CHA Modifier. On attack hit, deals Radiant Damage equal to CHA Modifier.
+Shield of Purity: When taking Spell damage, reduces the damage by 2d10 and is removed.
+
 ## T5
 
 ### Basilisk
@@ -256,3 +270,13 @@ DPS + Ranged attack Buffer
 ### Titania
 
 Healer
+
+### Tethys
+
+For a T7, kinda meh?
+
+Abyssal Pressure reduces Dex save and initiative,
+Abyssal chill is not great
+Vortex Veil is meh
+
+That said, not too many cold DMG dealers...
