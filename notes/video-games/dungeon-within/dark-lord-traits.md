@@ -4,12 +4,12 @@
 
 Each damage type uses different trait names but follows the same upgrade structure:
 
-| Trait                                  | Effect                                                                                                                              | Upgrade Stages |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Attack Roll Bonus                      | Attack Rolls for attacks of the chosen damage type and the Save DC to resist spells of that type increase by 2/4/6.                 | 3              |
-| Damage Dice Bonus                      | The number of damage dice for attacks or spells of the chosen damage type increases by 1/2/3.                                       | 3              |
-| Damage Dice Type                       | The damage die type for attacks or spells of the chosen damage type increases by one step (e.g., d6 → d8).                          | 1              |
-| Dark Lord's [Damage Type Related Word] | Damage from attacks or spells of the chosen damage type increases further by 50.0% of the stat bonus propagated from the Dark Lord. | 1              |
+| Trait                                  | Effect                                                                                                                              |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Attack Roll Bonus                      | Attack Rolls for attacks of the chosen damage type and the Save DC to resist spells of that type increase by 2/4/6.                 |
+| Damage Dice Bonus                      | The number of damage dice for attacks or spells of the chosen damage type increases by 1/2/3.                                       |
+| Damage Dice Type                       | The damage die type for attacks or spells of the chosen damage type increases by one step (e.g., d6 → d8).                          |
+| Dark Lord's [Damage Type Related Word] | Damage from attacks or spells of the chosen damage type increases further by 50.0% of the stat bonus propagated from the Dark Lord. |
 
 The Save DC bonus makes spells cast by your monsters harder for enemies to resist. Only pick the Attack Roll Bonus trait if you have or plan to have monsters that use that damage type.
 
