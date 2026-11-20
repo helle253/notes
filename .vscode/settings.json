@@ -1,8 +1,0 @@
-{
-  "editor.snippetSuggestions": "inline",
-  "editor.suggest.showSnippets": true,
-  "editor.suggest.snippetsPreventQuickSuggestions": false,
-  "editor.tabCompletion": "on",
-  "files.autoSave": "onFocusChange",
-  "gitdoc.enabled": true
-}
